@@ -1,1 +1,2 @@
-# Analyzing Recruitment Demand and Exploring IT Skill Clusters in Vietnam, Including Internships and All Experience Levels.
+# Data-mining
+ko điểm cao là rớt cái môn l này 
