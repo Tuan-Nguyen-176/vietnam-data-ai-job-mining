@@ -2,8 +2,9 @@
 
 1. Drop exact job_url duplicates.
 2. Drop intra-site duplicates only — the same job re-posted on the SAME board
-   is matched by site + normalized company + title. The same job on different
-   boards is kept (it's meaningful per-source data).
+   is matched by site + normalized company + title + city. The same job posted
+   for different cities (e.g. a bank's branches) is kept as separate rows, and
+   so is the same job on different boards (it's meaningful per-source data).
 """
 
 import argparse
@@ -11,6 +12,7 @@ import re
 from pathlib import Path
 
 from crawler.base import read_jsonl, write_jsonl
+from pipline.lam_sach import parse_cities
 
 
 def norm(s: str) -> str:
@@ -20,8 +22,15 @@ def norm(s: str) -> str:
     return s
 
 
+def city_key(location) -> str:
+    """Thành phố chuẩn hóa ("Ho Chi Minh City, Vietnam (On-site)" == "…Metropolitan Area");
+    thành phố ngoài danh sách ("Khác") thì dùng chính chuỗi địa điểm để không gộp nhầm."""
+    cities = parse_cities(location)
+    return "/".join(cities) if cities and cities != ["Khác"] else norm(location)
+
+
 def key_of(row: dict) -> str:
-    return f"{row.get('site')}||{norm(row.get('company'))}||{norm(row.get('title'))}"
+    return f"{row.get('site')}||{norm(row.get('company'))}||{norm(row.get('title'))}||{city_key(row.get('location'))}"
 
 
 def richer(a: dict, b: dict) -> dict:

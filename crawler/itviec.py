@@ -7,9 +7,7 @@ import argparse
 import random
 import time
 from pathlib import Path
-from urllib.parse import parse_qs, urljoin, urlsplit
-
-from playwright.sync_api import Error as PlaywrightError
+from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup
 

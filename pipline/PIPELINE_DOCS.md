@@ -167,7 +167,8 @@ flowchart TD
 | Tên hàm | Đầu vào → Đầu ra | Giải thích dễ hiểu |
 | :--- | :--- | :--- |
 | `norm(s)` | Chuỗi bất kỳ → Chuỗi sạch chữ thường | Hạ chữ thường, đổi mọi dấu câu thành khoảng trắng, gộp các dấu cách thừa. Ví dụ `"FPT Software (HCM)!"` → `"fpt software hcm"`. |
-| `key_of(row)` | 1 dòng tin (`dict`) → Chuỗi khóa | Tạo khóa nhận diện trùng trong cùng sàn dạng `"site\|\|norm(company)\|\|norm(title)"`. |
+| `city_key(location)` | Chuỗi địa điểm → Tên thành phố chuẩn hóa | Dùng `lam_sach.parse_cities` để "Ho Chi Minh City, Vietnam (On-site)" và "…Metropolitan Area" thành cùng một khóa; thành phố ngoài danh sách thì giữ chuỗi địa điểm đã chuẩn hóa. |
+| `key_of(row)` | 1 dòng tin (`dict`) → Chuỗi khóa | Tạo khóa nhận diện trùng trong cùng sàn dạng `"site\|\|norm(company)\|\|norm(title)\|\|city_key(location)"`; tin cùng chức danh nhưng khác thành phố được giữ riêng. |
 | `richer(a, b)` | 2 dòng tin trùng khóa → 1 dòng tốt hơn | So sánh 2 bản ghi trùng: bản nào có `description` (không rỗng) thì thắng ngay; nếu cả hai đều có (hoặc cùng không có) thì đếm số trường có giá trị (khác `None`, `""`, `[]`), bản nào nhiều thông tin hơn được giữ lại. |
 | `main()` | Tham số `--raw`, `--out` → File `data/dedup.jsonl` | Điều phối đọc file thô → lọc trùng URL → lọc trùng theo `key_of()` + `richer()` → xóa file cũ (nếu có) và ghi file mới. |
 
