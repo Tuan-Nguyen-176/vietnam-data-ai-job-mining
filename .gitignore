@@ -1,0 +1,71 @@
+# =========================
+# macOS và Windows
+# =========================
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# =========================
+# Cấu hình editor cá nhân
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# =========================
+# Python: cache và file biên dịch
+# =========================
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# =========================
+# Môi trường Python
+# =========================
+.venv/
+venv/
+env/
+ENV/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Biến môi trường và thông tin bí mật
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# Log và file tạm
+# =========================
+*.log
+*.tmp
+*.temp
+
+# =========================
+# File đóng gói Python
+# =========================
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Báo cáo kiểm thử
+# =========================
+.coverage
+.coverage.*
+htmlcov/
+
+# =========================
+# Bản sao thư mục Git
+# =========================
+.git copy/
