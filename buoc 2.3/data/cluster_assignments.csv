@@ -1,0 +1,2844 @@
+﻿job_uid,cluster_id,cluster_name,cluster_status
+itviec-b9bccb83ab,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-ea14bd1d88,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-99df719b7e,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-8f816367b4,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-2825747e21,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-d140332989,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-d360f92314,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-e4753308d5,3,"Backend Java (Spring, Microservices)",clustered
+itviec-914364edde,7,Quy trình Agile / Scrum,clustered
+itviec-3f554b3a95,3,"Backend Java (Spring, Microservices)",clustered
+itviec-cc892efd18,8,C / C++ và Linux,clustered
+itviec-3a24481621,3,"Backend Java (Spring, Microservices)",clustered
+itviec-c1a39f23d2,,,too_few_skills
+itviec-cd191d10c4,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-95d13a6bd0,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-b3cbf22651,5,Data Science / ML / LLM,clustered
+itviec-cb88480a84,,,no_skills_extracted
+itviec-44de923981,,,no_skills_extracted
+itviec-0c3848810d,7,Quy trình Agile / Scrum,clustered
+itviec-caa3242351,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-02b6779174,7,Quy trình Agile / Scrum,clustered
+itviec-9ff49efd04,,,too_few_skills
+itviec-c1c82f6e95,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-c02d8ad60a,5,Data Science / ML / LLM,clustered
+itviec-75be959ad2,8,C / C++ và Linux,clustered
+itviec-a84c05fcbb,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-93e17e4394,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-c390983ced,5,Data Science / ML / LLM,clustered
+itviec-4d879e070e,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-0b556eddfe,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-1b7d5966e4,5,Data Science / ML / LLM,clustered
+itviec-ad951bf33e,6,"Hệ thống, mạng và bảo mật",clustered
+itviec-99b179d18c,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-9bde0cad50,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-b997ad25ce,5,Data Science / ML / LLM,clustered
+itviec-a0ee388c9c,,,no_skills_extracted
+itviec-74a82a97d1,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-658b3037c5,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-ae65258eb9,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-8fb4c83afc,7,Quy trình Agile / Scrum,clustered
+itviec-cd3abdd81d,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-58ec0a346a,7,Quy trình Agile / Scrum,clustered
+itviec-5c494e56d6,,,too_few_skills
+itviec-f2c7c34bfd,3,"Backend Java (Spring, Microservices)",clustered
+itviec-47cb052bc4,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-d18bb98ca0,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-d6e4e8b904,5,Data Science / ML / LLM,clustered
+itviec-4edae73759,3,"Backend Java (Spring, Microservices)",clustered
+itviec-1c750ba21d,8,C / C++ và Linux,clustered
+itviec-39dc716b8a,7,Quy trình Agile / Scrum,clustered
+itviec-5a1eb29eeb,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-5f31a81ae8,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-d4fc7dec63,7,Quy trình Agile / Scrum,clustered
+itviec-3429935dac,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-ece9acee00,,,too_few_skills
+itviec-710f774b7c,6,"Hệ thống, mạng và bảo mật",clustered
+itviec-d27914dd56,3,"Backend Java (Spring, Microservices)",clustered
+itviec-f5d8a36c09,5,Data Science / ML / LLM,clustered
+itviec-7fd4cba6e9,3,"Backend Java (Spring, Microservices)",clustered
+itviec-2405493149,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-d405aee6eb,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-41506c74f4,8,C / C++ và Linux,clustered
+itviec-d3aa5164c6,7,Quy trình Agile / Scrum,clustered
+itviec-4720a8aa67,5,Data Science / ML / LLM,clustered
+itviec-610d030029,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-80949d47ce,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-493aafadc2,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-2d9d59cfc0,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-6f0b9d827f,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-0e0e4e87b6,5,Data Science / ML / LLM,clustered
+itviec-cb8330a1b0,5,Data Science / ML / LLM,clustered
+itviec-60e9c1ed72,5,Data Science / ML / LLM,clustered
+itviec-a26184fb6f,7,Quy trình Agile / Scrum,clustered
+itviec-2065f20bb9,5,Data Science / ML / LLM,clustered
+itviec-83565a0321,5,Data Science / ML / LLM,clustered
+itviec-c739892a81,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-3d637ac8bc,8,C / C++ và Linux,clustered
+itviec-f2442571e4,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-68fad45aef,,,no_skills_extracted
+itviec-ddf3727720,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-228da66fac,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-26a8b7b84d,7,Quy trình Agile / Scrum,clustered
+itviec-4ee0358225,,,too_few_skills
+itviec-e624cec697,7,Quy trình Agile / Scrum,clustered
+itviec-59ec428032,,,too_few_skills
+itviec-c4880c1ee1,5,Data Science / ML / LLM,clustered
+itviec-8e9d08f4de,6,"Hệ thống, mạng và bảo mật",clustered
+itviec-542a00715c,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-d25ed1a478,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-7ea3e3931e,,,too_few_skills
+itviec-2f2e5c8c22,7,Quy trình Agile / Scrum,clustered
+itviec-6c76ee0d96,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-f246509493,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-772b60c4de,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-592a481d55,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-bc55ef84e0,5,Data Science / ML / LLM,clustered
+itviec-4897e31ade,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-eaa6bc46cb,5,Data Science / ML / LLM,clustered
+itviec-72fe7f26aa,5,Data Science / ML / LLM,clustered
+itviec-7678bafe90,,,no_skills_extracted
+itviec-fa825a1302,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-dc92681a94,3,"Backend Java (Spring, Microservices)",clustered
+itviec-d39ba07407,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-7b19b377cf,7,Quy trình Agile / Scrum,clustered
+itviec-d225927d84,3,"Backend Java (Spring, Microservices)",clustered
+itviec-abb9c61d82,5,Data Science / ML / LLM,clustered
+itviec-41f126d85d,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-7fcc84eafe,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-f3502403d8,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-424d8695ef,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-eda744d799,7,Quy trình Agile / Scrum,clustered
+itviec-908a706e24,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-8cd0e56498,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-f75a9b415a,3,"Backend Java (Spring, Microservices)",clustered
+itviec-3238fa339b,3,"Backend Java (Spring, Microservices)",clustered
+itviec-aab588e7f3,5,Data Science / ML / LLM,clustered
+itviec-86d3ef49c4,3,"Backend Java (Spring, Microservices)",clustered
+itviec-93bb993d8b,7,Quy trình Agile / Scrum,clustered
+itviec-1e40c83c5b,7,Quy trình Agile / Scrum,clustered
+itviec-58e52fd77b,7,Quy trình Agile / Scrum,clustered
+itviec-80c8a4ff2b,,,no_skills_extracted
+itviec-a6d30f43c8,,,too_few_skills
+itviec-c9b0380e32,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-70bdc09fb6,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-f86d775cad,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-2e7f04bf74,5,Data Science / ML / LLM,clustered
+itviec-9803d84ea4,5,Data Science / ML / LLM,clustered
+itviec-546818ed82,5,Data Science / ML / LLM,clustered
+itviec-39df24b584,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-ab158b4ff7,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-c37e6fa441,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-44edef4586,5,Data Science / ML / LLM,clustered
+itviec-44749e81fd,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-81bf3dfaf5,7,Quy trình Agile / Scrum,clustered
+itviec-e9f8dcad33,3,"Backend Java (Spring, Microservices)",clustered
+itviec-fb9ef3595d,7,Quy trình Agile / Scrum,clustered
+itviec-39a43335c5,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-61a914396d,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-4e6403656e,5,Data Science / ML / LLM,clustered
+itviec-0933a48180,5,Data Science / ML / LLM,clustered
+itviec-01ec5eb0a9,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-c62c5ce996,5,Data Science / ML / LLM,clustered
+itviec-1262d6b9db,3,"Backend Java (Spring, Microservices)",clustered
+itviec-017216e9d6,7,Quy trình Agile / Scrum,clustered
+itviec-a6990f9f9f,3,"Backend Java (Spring, Microservices)",clustered
+itviec-0a87950708,3,"Backend Java (Spring, Microservices)",clustered
+itviec-9d829feb6d,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-b7b2eced10,7,Quy trình Agile / Scrum,clustered
+itviec-e8541ff3be,5,Data Science / ML / LLM,clustered
+itviec-222db7f69d,7,Quy trình Agile / Scrum,clustered
+itviec-57823d6d6c,6,"Hệ thống, mạng và bảo mật",clustered
+itviec-e1cee080d6,7,Quy trình Agile / Scrum,clustered
+itviec-b2ff983986,3,"Backend Java (Spring, Microservices)",clustered
+itviec-27077d38d0,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-8eeb7fc02e,6,"Hệ thống, mạng và bảo mật",clustered
+itviec-a3b99c709d,3,"Backend Java (Spring, Microservices)",clustered
+itviec-c7d8f0f970,3,"Backend Java (Spring, Microservices)",clustered
+itviec-bb3ff228ac,3,"Backend Java (Spring, Microservices)",clustered
+itviec-5f0a79bf6b,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-4bc410597b,3,"Backend Java (Spring, Microservices)",clustered
+itviec-27e5cd4c26,,,too_few_skills
+itviec-32cb6a67e2,,,too_few_skills
+itviec-4d3af9d60b,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-20bc565f6a,,,no_skills_extracted
+itviec-c1baff5e24,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-40eb5b05cb,3,"Backend Java (Spring, Microservices)",clustered
+itviec-26cf14f11b,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-b91e0c5bf5,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-e0144dbae4,5,Data Science / ML / LLM,clustered
+itviec-7af63b4bc5,3,"Backend Java (Spring, Microservices)",clustered
+itviec-fc759dff94,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-c62710fb33,,,too_few_skills
+itviec-352623b555,,,too_few_skills
+itviec-3b22f08410,3,"Backend Java (Spring, Microservices)",clustered
+itviec-c748862d50,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-08b8ec46a3,5,Data Science / ML / LLM,clustered
+itviec-cadad911b1,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-116223cb10,6,"Hệ thống, mạng và bảo mật",clustered
+itviec-f2d93fa8a0,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-8a77a4f368,5,Data Science / ML / LLM,clustered
+itviec-844b731b3f,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-558df6c3d4,3,"Backend Java (Spring, Microservices)",clustered
+itviec-4b419bf15f,3,"Backend Java (Spring, Microservices)",clustered
+itviec-d794207ac7,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-e724fbc647,6,"Hệ thống, mạng và bảo mật",clustered
+itviec-f4b0cd1d93,5,Data Science / ML / LLM,clustered
+itviec-be5bf7411f,,,too_few_skills
+itviec-98b0d0f483,7,Quy trình Agile / Scrum,clustered
+itviec-0b032e2686,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-ecb8b1fb70,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-83a84bdf8c,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-5702d6b818,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-01ee6b11b8,,,too_few_skills
+itviec-167017b1da,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-962c56576d,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-c7b3343548,7,Quy trình Agile / Scrum,clustered
+itviec-bd2697fc80,5,Data Science / ML / LLM,clustered
+itviec-49f788c60e,8,C / C++ và Linux,clustered
+itviec-78e142686c,5,Data Science / ML / LLM,clustered
+itviec-558f58f17d,8,C / C++ và Linux,clustered
+itviec-0b2092b434,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-adcdaeea26,3,"Backend Java (Spring, Microservices)",clustered
+itviec-ed13693658,5,Data Science / ML / LLM,clustered
+itviec-d84433a4ac,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-057838d37b,,,too_few_skills
+itviec-5af09c916b,6,"Hệ thống, mạng và bảo mật",clustered
+itviec-14de2f829f,,,too_few_skills
+itviec-364dd5bcfc,6,"Hệ thống, mạng và bảo mật",clustered
+itviec-ea6326a1c2,5,Data Science / ML / LLM,clustered
+itviec-9127c95ed9,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-72765829ac,,,too_few_skills
+itviec-a22c11a03f,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-99939240da,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-6f34d672f2,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-c92ba71b22,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-fdf2864c43,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-74660cd33e,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-ee88519863,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-0b42f3f45e,3,"Backend Java (Spring, Microservices)",clustered
+itviec-b3fd97b06a,5,Data Science / ML / LLM,clustered
+itviec-43cce7c081,,,too_few_skills
+itviec-fab9942a90,5,Data Science / ML / LLM,clustered
+itviec-6387834d70,,,too_few_skills
+itviec-c43742d264,7,Quy trình Agile / Scrum,clustered
+itviec-e69eff3283,,,too_few_skills
+itviec-341895c9c1,,,too_few_skills
+itviec-2501668c2a,3,"Backend Java (Spring, Microservices)",clustered
+itviec-c5d8d94f09,3,"Backend Java (Spring, Microservices)",clustered
+itviec-44efa48fe0,5,Data Science / ML / LLM,clustered
+itviec-a896ec9c6e,8,C / C++ và Linux,clustered
+itviec-8656cd3c44,,,too_few_skills
+itviec-e95fb2a451,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-192f47af6d,3,"Backend Java (Spring, Microservices)",clustered
+itviec-5f24337d2c,3,"Backend Java (Spring, Microservices)",clustered
+itviec-37b745410b,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-1c6f5904d7,6,"Hệ thống, mạng và bảo mật",clustered
+itviec-bb088d7de5,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-6b5583da32,3,"Backend Java (Spring, Microservices)",clustered
+itviec-f7550eab34,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-d10853b5f0,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-c15dd5bd40,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-96603b591e,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-80a11544b7,3,"Backend Java (Spring, Microservices)",clustered
+itviec-15227fce41,8,C / C++ và Linux,clustered
+itviec-2dfdb29b20,,,too_few_skills
+itviec-fdf4cb4e9d,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-81ffbc822a,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-75e6c17855,,,too_few_skills
+itviec-aa0c1388d3,,,too_few_skills
+itviec-0b3189fc33,6,"Hệ thống, mạng và bảo mật",clustered
+itviec-c4b81bac11,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-3dd0050d02,3,"Backend Java (Spring, Microservices)",clustered
+itviec-88e6caab3c,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-0aee680bae,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-0b37e63632,7,Quy trình Agile / Scrum,clustered
+itviec-5ebe7b87d6,7,Quy trình Agile / Scrum,clustered
+itviec-301e5f6ef2,5,Data Science / ML / LLM,clustered
+itviec-f966c96587,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-920e045076,6,"Hệ thống, mạng và bảo mật",clustered
+itviec-611de6978a,3,"Backend Java (Spring, Microservices)",clustered
+itviec-d676e36b02,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-ce96a79773,6,"Hệ thống, mạng và bảo mật",clustered
+itviec-d76418cc71,,,too_few_skills
+itviec-a8067ee4f5,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-c5676f674a,7,Quy trình Agile / Scrum,clustered
+itviec-834b2dce94,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-9224fe3929,7,Quy trình Agile / Scrum,clustered
+itviec-c051490dde,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-eaa8bc9229,,,too_few_skills
+itviec-612e493b26,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-b9ecccbd33,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-067e6dea97,3,"Backend Java (Spring, Microservices)",clustered
+itviec-e7a0abeb2d,7,Quy trình Agile / Scrum,clustered
+itviec-e4074b4ac7,5,Data Science / ML / LLM,clustered
+itviec-77eca271a0,,,no_skills_extracted
+itviec-c79a70fa00,6,"Hệ thống, mạng và bảo mật",clustered
+itviec-4992bce050,5,Data Science / ML / LLM,clustered
+itviec-23e456e6da,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-e8bb3e409d,3,"Backend Java (Spring, Microservices)",clustered
+itviec-be772131d0,3,"Backend Java (Spring, Microservices)",clustered
+itviec-d41222f780,3,"Backend Java (Spring, Microservices)",clustered
+itviec-5bc090b3b7,3,"Backend Java (Spring, Microservices)",clustered
+itviec-a957eadf32,5,Data Science / ML / LLM,clustered
+itviec-4bd2c1b037,5,Data Science / ML / LLM,clustered
+itviec-a2863d8927,3,"Backend Java (Spring, Microservices)",clustered
+itviec-dd300b2941,3,"Backend Java (Spring, Microservices)",clustered
+itviec-81c3a73cfc,,,too_few_skills
+itviec-f75775254b,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-1e2e931385,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-64c7bed033,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-d73a6886c6,6,"Hệ thống, mạng và bảo mật",clustered
+itviec-0cdde27e23,,,too_few_skills
+itviec-fbd37a85ed,,,too_few_skills
+itviec-0288724957,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-f8bb674e28,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-70240ced52,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-48066063e3,5,Data Science / ML / LLM,clustered
+itviec-4ba744e674,3,"Backend Java (Spring, Microservices)",clustered
+itviec-8b6ad5aea5,7,Quy trình Agile / Scrum,clustered
+itviec-5cde62dd2b,3,"Backend Java (Spring, Microservices)",clustered
+itviec-f7b9b96124,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-038b1d97a6,7,Quy trình Agile / Scrum,clustered
+itviec-4eb0a6e361,8,C / C++ và Linux,clustered
+itviec-6f6fdbcb0c,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-0ae9042b42,8,C / C++ và Linux,clustered
+itviec-675522506c,6,"Hệ thống, mạng và bảo mật",clustered
+itviec-e8113c858c,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-d7c4867fea,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-d8526c44b2,,,too_few_skills
+itviec-b2ca06156d,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-38371314ce,3,"Backend Java (Spring, Microservices)",clustered
+itviec-aa94571a26,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-47979ce240,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-c9fc4a2546,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-41b0958cc6,,,too_few_skills
+itviec-fc9445e9e8,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-45f6df4a86,8,C / C++ và Linux,clustered
+itviec-df9ac35819,7,Quy trình Agile / Scrum,clustered
+itviec-ee359e0baf,,,too_few_skills
+itviec-7b9563b542,5,Data Science / ML / LLM,clustered
+itviec-572a2dc636,3,"Backend Java (Spring, Microservices)",clustered
+itviec-59edc572b1,7,Quy trình Agile / Scrum,clustered
+itviec-be2950afcd,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-0c202e0f5a,5,Data Science / ML / LLM,clustered
+itviec-e0b9ea9047,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-2d6879d5a9,3,"Backend Java (Spring, Microservices)",clustered
+itviec-49c9025d90,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-e19589fe5c,7,Quy trình Agile / Scrum,clustered
+itviec-8524906409,8,C / C++ và Linux,clustered
+itviec-4c05a5a4ab,3,"Backend Java (Spring, Microservices)",clustered
+itviec-cd1aa0cbcd,,,too_few_skills
+itviec-c30845e133,6,"Hệ thống, mạng và bảo mật",clustered
+itviec-e084f41eb1,5,Data Science / ML / LLM,clustered
+itviec-0c7e155f74,5,Data Science / ML / LLM,clustered
+itviec-736c5ab1c2,,,too_few_skills
+itviec-5481caeef4,3,"Backend Java (Spring, Microservices)",clustered
+itviec-3a0421d698,,,too_few_skills
+itviec-3b91810932,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-bc5cb4477f,7,Quy trình Agile / Scrum,clustered
+itviec-da00fac680,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-4e896733d2,6,"Hệ thống, mạng và bảo mật",clustered
+itviec-28921515ab,3,"Backend Java (Spring, Microservices)",clustered
+itviec-95c39ab8d3,3,"Backend Java (Spring, Microservices)",clustered
+itviec-ea3bdc078e,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-bb3d0a579e,5,Data Science / ML / LLM,clustered
+itviec-a482f1b681,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-0f1f5a578d,,,no_skills_extracted
+itviec-5870fb4a95,,,no_skills_extracted
+itviec-2716bff2d1,,,too_few_skills
+itviec-e81ad5a4e4,,,too_few_skills
+itviec-e2bac7b193,,,no_skills_extracted
+itviec-bce0886580,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-f50f853cbb,,,too_few_skills
+itviec-62f57a4e49,,,too_few_skills
+itviec-41360061d4,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-6d77fb05e6,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-ce4b8aea51,3,"Backend Java (Spring, Microservices)",clustered
+itviec-50c5b8782e,5,Data Science / ML / LLM,clustered
+itviec-ce103e33f8,3,"Backend Java (Spring, Microservices)",clustered
+itviec-b63a628d72,7,Quy trình Agile / Scrum,clustered
+itviec-44dbe14151,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-307527c428,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-d9ee4bbb5c,3,"Backend Java (Spring, Microservices)",clustered
+itviec-19983c1c2a,8,C / C++ và Linux,clustered
+itviec-a8bdc036d5,3,"Backend Java (Spring, Microservices)",clustered
+itviec-3852b0e773,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-20f9675b1f,7,Quy trình Agile / Scrum,clustered
+itviec-5be0cbfded,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-5c7618ebfd,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-81dbb44d87,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-e2d63d0d85,5,Data Science / ML / LLM,clustered
+itviec-55db9e3629,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-168775886f,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-bd927471a7,5,Data Science / ML / LLM,clustered
+itviec-b4a48dc9db,3,"Backend Java (Spring, Microservices)",clustered
+itviec-15971a9871,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-a71f7ecb61,7,Quy trình Agile / Scrum,clustered
+itviec-3dc5d721f4,3,"Backend Java (Spring, Microservices)",clustered
+itviec-83f741f9e9,5,Data Science / ML / LLM,clustered
+itviec-a175c70043,3,"Backend Java (Spring, Microservices)",clustered
+itviec-376a92f5c5,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-69a603996f,8,C / C++ và Linux,clustered
+itviec-8f0126ccd7,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-104edcdecf,3,"Backend Java (Spring, Microservices)",clustered
+itviec-26d75f2cb9,3,"Backend Java (Spring, Microservices)",clustered
+itviec-0f994b5654,5,Data Science / ML / LLM,clustered
+itviec-8ac7d4f53d,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-20706b5c0c,5,Data Science / ML / LLM,clustered
+itviec-c71a8cfaeb,,,too_few_skills
+itviec-3e41c84664,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-8043bac63a,6,"Hệ thống, mạng và bảo mật",clustered
+itviec-cfdc8540f6,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-4c15966c40,3,"Backend Java (Spring, Microservices)",clustered
+itviec-77e92c166b,8,C / C++ và Linux,clustered
+itviec-26cbc89c16,5,Data Science / ML / LLM,clustered
+itviec-5829d8ece4,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-44d4c1ccf8,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-9d4cda98da,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-8640c908b0,,,too_few_skills
+itviec-54af7298b0,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-59c5bb5236,8,C / C++ và Linux,clustered
+itviec-7445844a0c,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-a5013795dd,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-b02f484ede,5,Data Science / ML / LLM,clustered
+itviec-94e09043de,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-2a6ade83bf,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-8d84d83623,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-67044b921e,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-0c8b5afb88,,,too_few_skills
+itviec-c7caf8c665,5,Data Science / ML / LLM,clustered
+itviec-fcdf1a49bd,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-cc1ef9ae2d,,,too_few_skills
+itviec-43cbd416c9,7,Quy trình Agile / Scrum,clustered
+itviec-8926053dba,6,"Hệ thống, mạng và bảo mật",clustered
+itviec-9440425d2a,5,Data Science / ML / LLM,clustered
+itviec-d35dda9066,,,too_few_skills
+itviec-643fbf9970,,,too_few_skills
+itviec-2abcd8dd91,7,Quy trình Agile / Scrum,clustered
+itviec-67778425c6,5,Data Science / ML / LLM,clustered
+itviec-681fe71530,7,Quy trình Agile / Scrum,clustered
+itviec-cbe9bb432a,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-497afce7b0,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-6bcbf2b463,5,Data Science / ML / LLM,clustered
+itviec-d2c5e82594,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-f3fa035fe4,,,too_few_skills
+itviec-9adc4e8ec1,,,no_skills_extracted
+itviec-693517b375,3,"Backend Java (Spring, Microservices)",clustered
+itviec-6d18e33338,5,Data Science / ML / LLM,clustered
+itviec-680f979793,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-3a2de3df46,5,Data Science / ML / LLM,clustered
+itviec-e92d1ba062,,,too_few_skills
+itviec-4d686e51e9,,,too_few_skills
+itviec-548fb553f3,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-e824ca9b4e,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-b730b165b0,,,no_skills_extracted
+itviec-9c2149df10,8,C / C++ và Linux,clustered
+itviec-43b5a9b323,7,Quy trình Agile / Scrum,clustered
+itviec-ef8363613f,3,"Backend Java (Spring, Microservices)",clustered
+itviec-6971d77f7d,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-e10f3e0adc,3,"Backend Java (Spring, Microservices)",clustered
+itviec-712be86ec1,5,Data Science / ML / LLM,clustered
+itviec-968d5f9064,3,"Backend Java (Spring, Microservices)",clustered
+itviec-ba48e3a4e5,6,"Hệ thống, mạng và bảo mật",clustered
+itviec-4e78ccc8d7,3,"Backend Java (Spring, Microservices)",clustered
+itviec-1a811fd970,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-18932be409,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-366e8d3f83,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-2e1d6beeb9,6,"Hệ thống, mạng và bảo mật",clustered
+itviec-4efe59716d,3,"Backend Java (Spring, Microservices)",clustered
+itviec-300d01be03,,,too_few_skills
+itviec-079732f78e,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-8b3fdc3824,5,Data Science / ML / LLM,clustered
+itviec-05c3f820ae,7,Quy trình Agile / Scrum,clustered
+itviec-a8540d3f78,5,Data Science / ML / LLM,clustered
+itviec-e20b8bdeb4,,,too_few_skills
+itviec-f88bc790bb,,,too_few_skills
+itviec-602af3eef6,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-a0f2ae4bb1,8,C / C++ và Linux,clustered
+itviec-732a5f542f,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-61cbd19550,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-03e290ef4c,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-80fbdd9f3b,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-33d4105707,,,too_few_skills
+itviec-0720b01681,3,"Backend Java (Spring, Microservices)",clustered
+itviec-401201104c,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-8aff8eecda,,,too_few_skills
+itviec-ea09178aff,,,too_few_skills
+itviec-eb769c3f67,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-c17d4d7eb4,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-25dacd9487,8,C / C++ và Linux,clustered
+itviec-2f98c18a27,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-4c4169c14e,3,"Backend Java (Spring, Microservices)",clustered
+itviec-e54b34aad1,3,"Backend Java (Spring, Microservices)",clustered
+itviec-7401ce8b9d,3,"Backend Java (Spring, Microservices)",clustered
+itviec-6ebee24a40,7,Quy trình Agile / Scrum,clustered
+itviec-a8afbb8395,5,Data Science / ML / LLM,clustered
+itviec-c4d554c7a8,5,Data Science / ML / LLM,clustered
+itviec-ab15a0496c,5,Data Science / ML / LLM,clustered
+itviec-a68360f30c,3,"Backend Java (Spring, Microservices)",clustered
+itviec-2b92cd3c2b,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-9efbd60575,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-8ab4bc501c,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-2e2282e48a,3,"Backend Java (Spring, Microservices)",clustered
+itviec-3f8ce81bc0,3,"Backend Java (Spring, Microservices)",clustered
+itviec-d4abd86b7f,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-4c6ebadda6,3,"Backend Java (Spring, Microservices)",clustered
+itviec-0669e0b4fc,3,"Backend Java (Spring, Microservices)",clustered
+itviec-d591241a5d,,,too_few_skills
+itviec-a1b67f77f2,7,Quy trình Agile / Scrum,clustered
+itviec-d0a1bd3e97,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-771701dafa,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-94a3f6760f,3,"Backend Java (Spring, Microservices)",clustered
+itviec-6479b7e660,5,Data Science / ML / LLM,clustered
+itviec-c09340d9cd,3,"Backend Java (Spring, Microservices)",clustered
+itviec-462db19c84,6,"Hệ thống, mạng và bảo mật",clustered
+itviec-f5c04626a8,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-ef42d25004,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-0c64ebf995,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-be6ce81a66,,,no_skills_extracted
+itviec-f4cd1df5ff,,,too_few_skills
+itviec-1cec446dbe,3,"Backend Java (Spring, Microservices)",clustered
+itviec-1481e9154a,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-7370104449,,,too_few_skills
+itviec-2c8cf5313c,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-b2e84a01b1,5,Data Science / ML / LLM,clustered
+itviec-67405ab85a,3,"Backend Java (Spring, Microservices)",clustered
+itviec-8f35cd01a7,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-9bb9eaa2ab,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-4f7804489e,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-554b472468,7,Quy trình Agile / Scrum,clustered
+itviec-d3c57b30b5,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-f3b18917d0,3,"Backend Java (Spring, Microservices)",clustered
+itviec-e628a9fffe,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-8bf5e0bebb,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-5fb93e63bd,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-dd7a73971b,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-ee50613753,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-d8a059d737,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-d6a3fd8189,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-f87dabd4e8,3,"Backend Java (Spring, Microservices)",clustered
+itviec-f8dd97676e,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-5cc46919b4,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-facadc1983,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+itviec-2af993fb05,1,"Frontend và Web (HTML, JS, React)",clustered
+itviec-bad4497617,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-68c67c6b55,5,Data Science / ML / LLM,clustered
+itviec-0d6cb77fbe,8,C / C++ và Linux,clustered
+itviec-584b46abd7,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+itviec-80b9eff136,3,"Backend Java (Spring, Microservices)",clustered
+itviec-89b0b2159f,5,Data Science / ML / LLM,clustered
+linkedin-4c006644e9,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-b92114a40d,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-5635ae0734,8,C / C++ và Linux,clustered
+linkedin-ee2c37600a,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-41a8c92a0c,,,too_few_skills
+linkedin-30594f40d7,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-4e3d45d77f,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-4b5d706748,5,Data Science / ML / LLM,clustered
+linkedin-3a89ac2668,,,no_skills_extracted
+linkedin-5c836a7535,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-b5b56d38e2,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-5ca2137d61,5,Data Science / ML / LLM,clustered
+linkedin-fcbf1868ae,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-8f76449c5c,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-5f6b877493,8,C / C++ và Linux,clustered
+linkedin-7acd111a4f,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-fda14c6071,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-75d883ea25,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-b26318c893,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-1cca4fcfd9,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-69a9bd300a,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-5a21f13a88,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-3597e5509b,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-574c67a263,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-e232ea66cc,,,too_few_skills
+linkedin-057a87dc52,8,C / C++ và Linux,clustered
+linkedin-ae47abf08e,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-e418840d74,8,C / C++ và Linux,clustered
+linkedin-aba46408d4,8,C / C++ và Linux,clustered
+linkedin-197c7b52f6,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-eb3328a13b,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-1cfd588eda,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-386dfbbf62,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-ee2e74e543,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-9b96050c34,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-974bd4f974,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-e92551a70b,8,C / C++ và Linux,clustered
+linkedin-c721a71eb4,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-198c404018,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-a2a3aac8ee,8,C / C++ và Linux,clustered
+linkedin-2d78049d87,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-e411ce9b82,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-b6640137e6,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-3e617c6f3a,8,C / C++ và Linux,clustered
+linkedin-3bcc033d3e,8,C / C++ và Linux,clustered
+linkedin-141f291507,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-11a209efd8,,,too_few_skills
+linkedin-11878162a6,8,C / C++ và Linux,clustered
+linkedin-a3c74cbdd6,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-04947b8a76,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-fc9ab0aba2,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-2c2cb66ac5,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-5ff6fb2dc1,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-a3da5e64a9,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-ba9cb08ba3,,,too_few_skills
+linkedin-6c9ef0ba33,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-17d102c0fc,5,Data Science / ML / LLM,clustered
+linkedin-d8452272cf,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-e86558df49,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-695351f228,8,C / C++ và Linux,clustered
+linkedin-06c619dc83,,,too_few_skills
+linkedin-78c212dccf,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-ccd2f0587f,5,Data Science / ML / LLM,clustered
+linkedin-f612f77601,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-3409115805,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-dfcdc20e7a,5,Data Science / ML / LLM,clustered
+linkedin-3951d72715,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-f166d7a478,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-65938e587c,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-43d7f75e9d,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-4293467657,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-c16c2f46b8,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-6576b0153a,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-cab6bbcc59,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-fb93f894e7,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-8bcb575ca3,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-c275299761,8,C / C++ và Linux,clustered
+linkedin-1332dd8a55,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-a01177ddc8,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-a3a57a80e0,8,C / C++ và Linux,clustered
+linkedin-f67b11e4d3,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-994a24ad23,5,Data Science / ML / LLM,clustered
+linkedin-f716af9dd3,5,Data Science / ML / LLM,clustered
+linkedin-1cdf04f28a,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-3fcc06620b,,,too_few_skills
+linkedin-151c47250d,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-a476750b02,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-63053024f1,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-e1e481a048,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-6ef97699ce,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-924d014ea1,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-7b436d1a90,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-7e251c7ad0,,,too_few_skills
+linkedin-0a05ff2883,,,too_few_skills
+linkedin-e4e3ab8821,8,C / C++ và Linux,clustered
+linkedin-839f480d17,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-f32706d215,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-6680fcab22,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-b5be685dc7,,,too_few_skills
+linkedin-aa3da93d4e,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-a080a22711,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-1a662cce07,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-aac6a2a483,8,C / C++ và Linux,clustered
+linkedin-f2e8e9f084,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-ac8a930a91,5,Data Science / ML / LLM,clustered
+linkedin-9544c128ec,7,Quy trình Agile / Scrum,clustered
+linkedin-8517caeb97,5,Data Science / ML / LLM,clustered
+linkedin-95369a2c6c,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-f6d6d4866b,,,too_few_skills
+linkedin-97f48f3004,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-63098cdbe1,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-ca8303f234,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-d67662a081,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-87724e55c5,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-4a7d235b91,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-33aa8ca8da,,,no_skills_extracted
+linkedin-b440bdf3f1,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-e7107c3c5a,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-3cc43d010d,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-b99ad5b344,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-81fa3d5ebe,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-d1f44b4452,5,Data Science / ML / LLM,clustered
+linkedin-117b17d808,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-a07450d63a,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-22c524221e,7,Quy trình Agile / Scrum,clustered
+linkedin-35f0f3dfda,5,Data Science / ML / LLM,clustered
+linkedin-c3b9a36272,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-c5fc9b295b,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-235c576f6c,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-92ad9a6002,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-3f4d4744ed,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-422ed0e4ab,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-3fd61c49b0,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-773ca10d58,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-1f74ffa33b,6,"Hệ thống, mạng và bảo mật",clustered
+linkedin-4aa3218bb0,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-2f3f47d105,,,too_few_skills
+linkedin-815dccb1d1,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-06600fe9f6,,,too_few_skills
+linkedin-8d03e87f9f,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-dd9cefdbee,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-65de917474,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-acc41d5316,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-31b8e09dd9,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-955a83f5cf,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-c6e012c1c0,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-8db92f8d8d,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-35b4a1be42,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-5a3936f30b,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-9ca01e30fe,,,too_few_skills
+linkedin-d63a436be8,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-f0e1c54e3d,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-e497f2637c,8,C / C++ và Linux,clustered
+linkedin-b1181e6caf,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-c2b89303a8,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-ab5a562d99,8,C / C++ và Linux,clustered
+linkedin-4ca93c0b01,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-b045dedc60,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-afb43f73ee,5,Data Science / ML / LLM,clustered
+linkedin-e51e744402,,,too_few_skills
+linkedin-c405f66d3c,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-1f16af2768,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-54b167fe93,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-0fdef265ec,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-0ad846ff6a,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-9455281df4,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-8d6de22fef,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-73e5e31ce7,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-3893acb658,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-4277607ddf,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-a9da2e5ea3,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-8554635956,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-0ec3348faa,8,C / C++ và Linux,clustered
+linkedin-90e715d3a6,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-7fb046ee63,5,Data Science / ML / LLM,clustered
+linkedin-c9d026a950,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-f03f7a9d24,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-26eb854a21,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-90e98746de,8,C / C++ và Linux,clustered
+linkedin-a9ed4c067b,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-29c7a5ec51,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-a3142cdf7c,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-afe47d665a,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-62f11d0320,8,C / C++ và Linux,clustered
+linkedin-d243077642,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-effd4de510,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-ad21cc9211,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-e7ee84acef,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-da6d5c3ade,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-7a66402a85,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-bcc918863f,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-813415d0ed,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-1275528d23,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-c1630704fb,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-c6cf8c7571,5,Data Science / ML / LLM,clustered
+linkedin-a745a3224a,,,too_few_skills
+linkedin-c2760e7645,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-80c16ad928,,,no_skills_extracted
+linkedin-8129d2e417,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-2bd4055b53,5,Data Science / ML / LLM,clustered
+linkedin-c9632ca336,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-030566e166,5,Data Science / ML / LLM,clustered
+linkedin-0a0a756b68,8,C / C++ và Linux,clustered
+linkedin-d3d060db5f,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-5c55ba75c8,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-1a62b5f242,5,Data Science / ML / LLM,clustered
+linkedin-bfc1c02748,8,C / C++ và Linux,clustered
+linkedin-b46dccc7a0,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-01fa8c37ac,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-31344f6a97,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-2becbeda1e,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-8f60b0c192,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-8507a1b438,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-e88c4051c8,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-896ed3c02d,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-79f263b10c,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-25a1c16c53,8,C / C++ và Linux,clustered
+linkedin-da5f9608fe,7,Quy trình Agile / Scrum,clustered
+linkedin-67f436de8e,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-7c9ad1d2a5,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-cb0b9024d2,5,Data Science / ML / LLM,clustered
+linkedin-fe36803adb,8,C / C++ và Linux,clustered
+linkedin-0632cdbc56,8,C / C++ và Linux,clustered
+linkedin-749c05796e,5,Data Science / ML / LLM,clustered
+linkedin-adbf8e7eb0,8,C / C++ và Linux,clustered
+linkedin-4ded1a84de,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-95c49351f6,8,C / C++ và Linux,clustered
+linkedin-9a22a7eee6,,,too_few_skills
+linkedin-9d83d4b993,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-7555568a35,5,Data Science / ML / LLM,clustered
+linkedin-0a88b6bfd3,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-29118ec58c,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-aba19a2357,,,too_few_skills
+linkedin-368d87dca3,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-93d9d45bd8,8,C / C++ và Linux,clustered
+linkedin-96693889d3,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-5fcba5b87b,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-12d4b0bbfe,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-ac94bac497,5,Data Science / ML / LLM,clustered
+linkedin-c098eb9767,7,Quy trình Agile / Scrum,clustered
+linkedin-8b11c62613,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-7a23a784bb,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-4bbf9374b4,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-e474755c8d,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-43452965e5,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-a5f0642fa0,,,too_few_skills
+linkedin-fd18cbafc7,7,Quy trình Agile / Scrum,clustered
+linkedin-cd5acceeab,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-a4b81c3864,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-2f62262150,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-74acca946b,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-e4da2ac2bc,5,Data Science / ML / LLM,clustered
+linkedin-9444107046,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-0c061df141,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-754ad4fc22,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-f663d1f37a,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-b18690a625,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-cf3787924a,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-053f127c1c,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-66886af719,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-9285633bbf,5,Data Science / ML / LLM,clustered
+linkedin-5682fdadcf,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-912b791630,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-8c5f6f2178,6,"Hệ thống, mạng và bảo mật",clustered
+linkedin-2863840758,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-cf5245c5a9,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-15ec96b596,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-fc72baa245,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-726bb25a31,5,Data Science / ML / LLM,clustered
+linkedin-30166b1e73,8,C / C++ và Linux,clustered
+linkedin-aaa368c16d,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-01617a4f78,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-8730a40e2b,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-9f3e511f36,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-2437235ce3,5,Data Science / ML / LLM,clustered
+linkedin-586be9620b,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-989a149ae9,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-db2f45fa6b,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-fc9a1de896,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-9b223608fd,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-cf8f600934,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-dc10570ae0,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-666d14683b,5,Data Science / ML / LLM,clustered
+linkedin-b2069d35c3,5,Data Science / ML / LLM,clustered
+linkedin-24ea74a5c2,,,no_skills_extracted
+linkedin-8341318920,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-525f247b19,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-1e66f64efd,5,Data Science / ML / LLM,clustered
+linkedin-3527d72baf,5,Data Science / ML / LLM,clustered
+linkedin-38807cbbe7,8,C / C++ và Linux,clustered
+linkedin-5607b5382d,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-e224a49e37,8,C / C++ và Linux,clustered
+linkedin-ac26f27a02,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-3b419d34a1,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-ccbb68b3da,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-5738a98112,,,too_few_skills
+linkedin-944067b493,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-d636e3d8a5,7,Quy trình Agile / Scrum,clustered
+linkedin-32a4ef474c,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-bf7dfeacf2,8,C / C++ và Linux,clustered
+linkedin-1b2ead6546,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-6dbdfd6d4a,5,Data Science / ML / LLM,clustered
+linkedin-9e10b61c1e,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-e63329974d,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-3a1d59bc32,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-5588b1d04a,5,Data Science / ML / LLM,clustered
+linkedin-a678a3a005,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-da92702ded,5,Data Science / ML / LLM,clustered
+linkedin-b0ceb74607,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-0ba4a33099,8,C / C++ và Linux,clustered
+linkedin-c8b5088613,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-40e0acf477,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-f333f7ea2b,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-d15749868d,8,C / C++ và Linux,clustered
+linkedin-713139c73d,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-898240e1ec,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-e5337e0d4b,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-eae1dc5ae0,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-3b5b57fbd0,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-4833afe4d1,5,Data Science / ML / LLM,clustered
+linkedin-00ab609a9b,,,too_few_skills
+linkedin-a5d1b607dd,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-e81edf1c41,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-27ab4ce1b6,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-97e3b9be4f,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-81d0630e69,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-2644afda4e,7,Quy trình Agile / Scrum,clustered
+linkedin-572208f649,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-7f2cd4165a,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-5181daf5fe,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-8196acfbe8,,,too_few_skills
+linkedin-1365ac1dd3,5,Data Science / ML / LLM,clustered
+linkedin-9f8f1bb7c3,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-da1e237de2,5,Data Science / ML / LLM,clustered
+linkedin-eff3c4357c,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-143c5ee994,8,C / C++ và Linux,clustered
+linkedin-0d3aebc6cf,5,Data Science / ML / LLM,clustered
+linkedin-0cf454c8d6,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-eb0e6e860d,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-57865af610,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-b0d9be458b,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-9bb2e7e59a,7,Quy trình Agile / Scrum,clustered
+linkedin-809e38e1f7,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-d1b358fcc2,5,Data Science / ML / LLM,clustered
+linkedin-44dc23b2da,,,too_few_skills
+linkedin-28532a0c6c,5,Data Science / ML / LLM,clustered
+linkedin-ddde5f50b7,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-e54fc48130,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-71fa2700cc,5,Data Science / ML / LLM,clustered
+linkedin-40bf183b1a,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-60ed9d1cbf,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-c2e1815310,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-4cbf93e476,5,Data Science / ML / LLM,clustered
+linkedin-27d0085d32,5,Data Science / ML / LLM,clustered
+linkedin-b27ed0368f,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-e9eb8216dd,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-b146b1e9f6,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-192f1267ee,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-576e363f75,8,C / C++ và Linux,clustered
+linkedin-f7f2cf3e1b,5,Data Science / ML / LLM,clustered
+linkedin-6a0598f6a3,,,too_few_skills
+linkedin-aa2f85ed0e,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-c05e27ca16,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-37263324c3,5,Data Science / ML / LLM,clustered
+linkedin-698eac6e11,8,C / C++ và Linux,clustered
+linkedin-63fd307bea,5,Data Science / ML / LLM,clustered
+linkedin-7808a99622,5,Data Science / ML / LLM,clustered
+linkedin-fbfe7866af,5,Data Science / ML / LLM,clustered
+linkedin-5617e7c1eb,,,too_few_skills
+linkedin-65d228af84,8,C / C++ và Linux,clustered
+linkedin-c70eff9712,8,C / C++ và Linux,clustered
+linkedin-3e6a946877,,,too_few_skills
+linkedin-49c5e35a51,8,C / C++ và Linux,clustered
+linkedin-ed67dd01f3,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-6a0a89403e,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-6e3919c7f3,8,C / C++ và Linux,clustered
+linkedin-c34ee97da3,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-8d098a1207,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-270c421ab7,,,too_few_skills
+linkedin-13d0d956ab,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-85707b1564,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-8899eb3ecf,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-cc4d2ed9dc,5,Data Science / ML / LLM,clustered
+linkedin-51cf01f53d,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-b1716333b8,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-c8f73cf555,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-95af6e257a,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-1557c6751a,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-facff1be8b,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-abf2040092,,,too_few_skills
+linkedin-4f02f833f6,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-156d00ee60,,,no_skills_extracted
+linkedin-06d324f1b4,5,Data Science / ML / LLM,clustered
+linkedin-a825c773a7,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-5c2256c7fb,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-5040a1d443,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-ab82d1d3a0,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-44c9daef36,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-f981f4b22f,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-7a78165c51,8,C / C++ và Linux,clustered
+linkedin-6c8e807785,7,Quy trình Agile / Scrum,clustered
+linkedin-ac4bdd8cda,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-b344af7209,,,too_few_skills
+linkedin-71cf87f699,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-ee6b47b048,5,Data Science / ML / LLM,clustered
+linkedin-85864af6d9,8,C / C++ và Linux,clustered
+linkedin-e6538010fb,5,Data Science / ML / LLM,clustered
+linkedin-d9a0b5566b,8,C / C++ và Linux,clustered
+linkedin-7a1cdb0380,5,Data Science / ML / LLM,clustered
+linkedin-3de142ff78,5,Data Science / ML / LLM,clustered
+linkedin-9f06749ffb,,,too_few_skills
+linkedin-90e87bcce8,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-4a7dd26c4c,7,Quy trình Agile / Scrum,clustered
+linkedin-af7daff4cb,5,Data Science / ML / LLM,clustered
+linkedin-b6b4031712,8,C / C++ và Linux,clustered
+linkedin-7a1ba7967c,5,Data Science / ML / LLM,clustered
+linkedin-ff3fd7bd64,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-37e6109abd,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-c8099dc850,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-ea7b4f896a,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-d18fc2950f,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-ccf56f9d71,5,Data Science / ML / LLM,clustered
+linkedin-d3f53323c2,5,Data Science / ML / LLM,clustered
+linkedin-77859cce8e,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-4d0a20f433,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-70dea6309a,5,Data Science / ML / LLM,clustered
+linkedin-42bf317f92,7,Quy trình Agile / Scrum,clustered
+linkedin-2bf99a2a51,5,Data Science / ML / LLM,clustered
+linkedin-4e92948a1c,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-7a55509b65,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-ff18992001,5,Data Science / ML / LLM,clustered
+linkedin-8782ba14c0,,,no_skills_extracted
+linkedin-fbe6bb7db7,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-3c0088010f,8,C / C++ và Linux,clustered
+linkedin-711b4127a7,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-1eee43d5a9,5,Data Science / ML / LLM,clustered
+linkedin-10c15fd75c,8,C / C++ và Linux,clustered
+linkedin-40bf9fd989,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-0b9b527ad8,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-772c2f0fe6,8,C / C++ và Linux,clustered
+linkedin-02c23a389b,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-1468b91444,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-a1a8303089,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-ecbc9ea895,5,Data Science / ML / LLM,clustered
+linkedin-145c208716,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-731af3431c,5,Data Science / ML / LLM,clustered
+linkedin-5870a81729,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-b3844ee624,5,Data Science / ML / LLM,clustered
+linkedin-93a3e09161,8,C / C++ và Linux,clustered
+linkedin-dba285ce83,5,Data Science / ML / LLM,clustered
+linkedin-9c209b11b6,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-287dd6fbad,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-5f6bb3c934,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-8cb8f0dfc9,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-d3188732bd,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-16779ab102,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-fd797e92a8,5,Data Science / ML / LLM,clustered
+linkedin-6f51043493,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-a1e6729f09,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-e835c6c76f,5,Data Science / ML / LLM,clustered
+linkedin-ba3bb84517,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-8565c72aba,,,too_few_skills
+linkedin-12103974e4,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-c2eeaa6c6a,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-7b234c64a9,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-01ccddb9a8,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-3bb240ce4f,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-85cc368365,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-c7fea611b9,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-7e750301d0,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-b699e97c27,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-8af6ff7ca7,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-fce1084554,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-7d2441022e,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-6e90ec434b,5,Data Science / ML / LLM,clustered
+linkedin-0b63ca2cd4,5,Data Science / ML / LLM,clustered
+linkedin-bd6c3ba208,5,Data Science / ML / LLM,clustered
+linkedin-369e2fbf5f,8,C / C++ và Linux,clustered
+linkedin-cd700a0521,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-e1248fae66,8,C / C++ và Linux,clustered
+linkedin-e135c11b91,5,Data Science / ML / LLM,clustered
+linkedin-5bbd7f3dca,,,too_few_skills
+linkedin-198466407f,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-176a242f0e,6,"Hệ thống, mạng và bảo mật",clustered
+linkedin-d1adeed391,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-c8bc59fb16,5,Data Science / ML / LLM,clustered
+linkedin-c5709cbc69,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-33041a647b,5,Data Science / ML / LLM,clustered
+linkedin-f9f239c04b,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-f48a62e33f,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-a1cc05b0be,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-8ed7b4cd79,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-77e505eae9,8,C / C++ và Linux,clustered
+linkedin-49d0c033f8,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-557272e18a,7,Quy trình Agile / Scrum,clustered
+linkedin-ddfeda54c1,8,C / C++ và Linux,clustered
+linkedin-e2db5e2a48,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-64bcc05913,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-a1059d7526,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-ddfd8a9b2d,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-5b95edbff2,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-ba130047e0,,,too_few_skills
+linkedin-939ec0454d,7,Quy trình Agile / Scrum,clustered
+linkedin-541121f333,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-19c2446f3a,,,too_few_skills
+linkedin-a604bff25b,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-9222dbc1ea,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-fb34e0c356,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-d024025757,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-c3e27500c0,5,Data Science / ML / LLM,clustered
+linkedin-40afaaf143,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-f87971292a,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-c109233fba,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-eb14ca20bd,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-bbe630ff85,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-11ef9530a6,5,Data Science / ML / LLM,clustered
+linkedin-8acad5e146,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-05d546cec7,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-53b1074c11,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-c9346713af,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-0e352c943c,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-6d7f86ab0e,8,C / C++ và Linux,clustered
+linkedin-3c2ad251c6,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-06de43e838,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-e34cf3a886,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-fe157ef32e,7,Quy trình Agile / Scrum,clustered
+linkedin-27d43e95f7,8,C / C++ và Linux,clustered
+linkedin-cb4955c9ba,,,no_skills_extracted
+linkedin-6938be547c,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-d40b9d1912,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-f624bb2c5e,7,Quy trình Agile / Scrum,clustered
+linkedin-2ddc88d54f,,,too_few_skills
+linkedin-617fb6d59e,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-8de3cf7414,7,Quy trình Agile / Scrum,clustered
+linkedin-e4c2a42820,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-962644abb7,8,C / C++ và Linux,clustered
+linkedin-4233d320bf,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-1dc4babf32,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-441b711d7b,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-1e2d948fdb,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-549a1bcda0,,,too_few_skills
+linkedin-3437a6e8da,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-c53145ec87,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-525703c31d,8,C / C++ và Linux,clustered
+linkedin-319f63b68d,5,Data Science / ML / LLM,clustered
+linkedin-15cbfeb717,5,Data Science / ML / LLM,clustered
+linkedin-170777f6a9,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-5381c87700,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-3f6b84bc40,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-f42a72f709,,,too_few_skills
+linkedin-06fb1451b3,6,"Hệ thống, mạng và bảo mật",clustered
+linkedin-d5e0e2cb9a,,,too_few_skills
+linkedin-c9d7d4a4d2,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-b403bd4d54,,,too_few_skills
+linkedin-e7eff0269a,8,C / C++ và Linux,clustered
+linkedin-23c2ee5809,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-a6074e8425,8,C / C++ và Linux,clustered
+linkedin-99c4dc82a9,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-5ea1424fea,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-9ecfde14c4,,,too_few_skills
+linkedin-0d90cd3754,6,"Hệ thống, mạng và bảo mật",clustered
+linkedin-c128ce5789,5,Data Science / ML / LLM,clustered
+linkedin-7b1c6b17d8,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-0068eaf6da,8,C / C++ và Linux,clustered
+linkedin-7c941efb29,,,too_few_skills
+linkedin-8a30c420c1,,,too_few_skills
+linkedin-b890fe5005,5,Data Science / ML / LLM,clustered
+linkedin-82d15b5cba,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-b28ad8b551,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-342b147055,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-e808141848,,,too_few_skills
+linkedin-b9c9444fe9,6,"Hệ thống, mạng và bảo mật",clustered
+linkedin-8d15ba9a2a,5,Data Science / ML / LLM,clustered
+linkedin-7b109efba8,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-ec6056072a,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-3f18ef07e6,8,C / C++ và Linux,clustered
+linkedin-e1a36526fe,,,too_few_skills
+linkedin-50b095f640,8,C / C++ và Linux,clustered
+linkedin-8b319b34ce,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-e7ecea1a35,8,C / C++ và Linux,clustered
+linkedin-101ae91b17,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-102d17db28,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-ba0f06d8b9,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-1384b959fd,8,C / C++ và Linux,clustered
+linkedin-b18042636f,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-1091901597,5,Data Science / ML / LLM,clustered
+linkedin-8ad39e44c5,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-105b956196,5,Data Science / ML / LLM,clustered
+linkedin-1c9114bf64,7,Quy trình Agile / Scrum,clustered
+linkedin-b1b9c8dae4,,,too_few_skills
+linkedin-4736054efc,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-928c41f08c,,,too_few_skills
+linkedin-89ef805c6f,8,C / C++ và Linux,clustered
+linkedin-51925c06ae,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-005feb6648,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-dac6b26a3d,,,too_few_skills
+linkedin-e1e18b07c0,5,Data Science / ML / LLM,clustered
+linkedin-039ee5a5d4,7,Quy trình Agile / Scrum,clustered
+linkedin-53d8e94800,,,too_few_skills
+linkedin-f30024fb38,5,Data Science / ML / LLM,clustered
+linkedin-8731c22ad1,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-78d79fb6ef,5,Data Science / ML / LLM,clustered
+linkedin-b02e67b686,,,too_few_skills
+linkedin-a5d54ddd7f,,,no_skills_extracted
+linkedin-6a42490f62,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-3bd8a01632,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-626a349e3b,8,C / C++ và Linux,clustered
+linkedin-9fbfd2c29d,,,too_few_skills
+linkedin-1416a711a5,8,C / C++ và Linux,clustered
+linkedin-ef2d54c4d6,,,too_few_skills
+linkedin-ae38059598,7,Quy trình Agile / Scrum,clustered
+linkedin-99df804de2,,,too_few_skills
+linkedin-a01070e365,,,too_few_skills
+linkedin-6e095dd257,,,too_few_skills
+linkedin-22d38e03cd,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-0db42706d2,7,Quy trình Agile / Scrum,clustered
+linkedin-d96f4dcc36,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-7cde979317,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-d3c58dfda9,8,C / C++ và Linux,clustered
+linkedin-d937645619,5,Data Science / ML / LLM,clustered
+linkedin-f1960a924b,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-ac818a6e60,,,no_skills_extracted
+linkedin-9fe46867a9,8,C / C++ và Linux,clustered
+linkedin-fd3f62f3fe,8,C / C++ và Linux,clustered
+linkedin-55690eb374,3,"Backend Java (Spring, Microservices)",clustered
+linkedin-b07c224651,,,no_skills_extracted
+linkedin-8701ecc173,5,Data Science / ML / LLM,clustered
+linkedin-66e00ec719,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-b224cd018e,1,"Frontend và Web (HTML, JS, React)",clustered
+linkedin-0aaeb1f732,7,Quy trình Agile / Scrum,clustered
+linkedin-257e1c36ed,8,C / C++ và Linux,clustered
+linkedin-770f221784,,,too_few_skills
+linkedin-355d5f3c62,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-eed9c19649,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+linkedin-8ba9b038af,5,Data Science / ML / LLM,clustered
+linkedin-97cf9f032d,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+linkedin-7b79ad6343,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-faa76878d3,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-e390a57000,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-f7d82a1e5f,3,"Backend Java (Spring, Microservices)",clustered
+topcv-0f1ee2ed9c,,,too_few_skills
+topcv-267fb47f13,,,no_skills_extracted
+topcv-b1d41f1ff2,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-2532011bc0,5,Data Science / ML / LLM,clustered
+topcv-6d81e347f1,3,"Backend Java (Spring, Microservices)",clustered
+topcv-db4209b218,,,no_skills_extracted
+topcv-ec18dd945c,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-55229de529,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-10df5afaeb,,,no_skills_extracted
+topcv-245b8409d2,,,no_skills_extracted
+topcv-fdc6707274,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-52a9cac884,8,C / C++ và Linux,clustered
+topcv-b45c261fd7,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-eabbb8d34d,,,too_few_skills
+topcv-94fb12c180,,,no_skills_extracted
+topcv-2285716511,7,Quy trình Agile / Scrum,clustered
+topcv-040013cbb5,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-357e8a62df,7,Quy trình Agile / Scrum,clustered
+topcv-d0579ea798,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-b852e56808,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-1652ae1117,3,"Backend Java (Spring, Microservices)",clustered
+topcv-80382eed9b,,,no_skills_extracted
+topcv-8996570320,,,no_skills_extracted
+topcv-e955a0749b,8,C / C++ và Linux,clustered
+topcv-e78c519e4c,,,no_skills_extracted
+topcv-d009ce2885,,,too_few_skills
+topcv-c75696dbb2,,,too_few_skills
+topcv-36b4b5f13e,3,"Backend Java (Spring, Microservices)",clustered
+topcv-df0a6e6b2e,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-5fede347d0,5,Data Science / ML / LLM,clustered
+topcv-66f85adf2f,3,"Backend Java (Spring, Microservices)",clustered
+topcv-1ec71f05ce,8,C / C++ và Linux,clustered
+topcv-f996d9190e,5,Data Science / ML / LLM,clustered
+topcv-09854a80ac,,,no_skills_extracted
+topcv-3d1d8f16f0,,,no_skills_extracted
+topcv-708997bc8c,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-cb6ca827c7,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-61e1a91b51,,,too_few_skills
+topcv-1e6f311f62,,,no_skills_extracted
+topcv-6ced10b11a,7,Quy trình Agile / Scrum,clustered
+topcv-445d3bda42,,,too_few_skills
+topcv-ac567f2f13,,,too_few_skills
+topcv-a2bd5608b8,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-8397af9bb0,,,too_few_skills
+topcv-e75fbaa11e,,,too_few_skills
+topcv-05dcdfdf29,,,too_few_skills
+topcv-915aed8753,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-e95fa89a87,,,too_few_skills
+topcv-28c8324fe9,,,no_skills_extracted
+topcv-10fa519657,,,too_few_skills
+topcv-9bc0eef4f7,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-01fe8dee72,5,Data Science / ML / LLM,clustered
+topcv-8b33057025,7,Quy trình Agile / Scrum,clustered
+topcv-8c7220da5c,,,no_skills_extracted
+topcv-df8e9bf255,,,too_few_skills
+topcv-c09f11ad51,5,Data Science / ML / LLM,clustered
+topcv-23310e015f,,,no_skills_extracted
+topcv-412a179f45,8,C / C++ và Linux,clustered
+topcv-38e455af00,5,Data Science / ML / LLM,clustered
+topcv-49db042dff,,,too_few_skills
+topcv-c87259dd55,7,Quy trình Agile / Scrum,clustered
+topcv-2a09872f18,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-35f1d426ef,,,too_few_skills
+topcv-b203b3f839,7,Quy trình Agile / Scrum,clustered
+topcv-ffb043468e,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-ca94c96963,3,"Backend Java (Spring, Microservices)",clustered
+topcv-2b07cc4db3,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-f33c5151b5,,,too_few_skills
+topcv-d7c38ac6fd,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-639c047ac1,5,Data Science / ML / LLM,clustered
+topcv-284c9b261c,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-85c9fac74c,5,Data Science / ML / LLM,clustered
+topcv-8555c72ea3,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-7d87cd1a3f,,,too_few_skills
+topcv-d2e212962e,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-f982a25e9b,,,no_skills_extracted
+topcv-72c951a69d,5,Data Science / ML / LLM,clustered
+topcv-16e12d9622,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-25d7e4bb8d,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-1f24a3dea3,,,too_few_skills
+topcv-8dea017950,3,"Backend Java (Spring, Microservices)",clustered
+topcv-27e4c22241,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-59c5c12097,,,no_skills_extracted
+topcv-3dfae97820,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-5742b42db6,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-374c77e8d6,7,Quy trình Agile / Scrum,clustered
+topcv-418bf8b917,,,too_few_skills
+topcv-b26a2ede1f,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-aa8313dacf,,,too_few_skills
+topcv-eb502bb4ac,,,no_skills_extracted
+topcv-048a22da14,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-20f00f877b,,,too_few_skills
+topcv-4195ac5d52,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-7338e26d7d,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-facbeddd51,5,Data Science / ML / LLM,clustered
+topcv-0119f3110c,,,no_skills_extracted
+topcv-cca90eae9e,5,Data Science / ML / LLM,clustered
+topcv-6059437d32,7,Quy trình Agile / Scrum,clustered
+topcv-1ba1f2a4ef,3,"Backend Java (Spring, Microservices)",clustered
+topcv-c0293f6205,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-2bad6b08f7,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-00fb0b0c3f,3,"Backend Java (Spring, Microservices)",clustered
+topcv-c93ce7de37,5,Data Science / ML / LLM,clustered
+topcv-3266d76786,3,"Backend Java (Spring, Microservices)",clustered
+topcv-4c501923e1,,,too_few_skills
+topcv-6a17eae9c6,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-4f3fee2d62,,,no_skills_extracted
+topcv-3294cc627c,,,too_few_skills
+topcv-abf2a632a2,7,Quy trình Agile / Scrum,clustered
+topcv-3a00599f8d,5,Data Science / ML / LLM,clustered
+topcv-557da49f60,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-59254fe223,,,no_skills_extracted
+topcv-fdd31de5f6,,,no_skills_extracted
+topcv-f80e2b6189,7,Quy trình Agile / Scrum,clustered
+topcv-263ea933a3,,,too_few_skills
+topcv-60501bcb0e,,,too_few_skills
+topcv-85bed6d0ed,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-369adc4e8d,,,too_few_skills
+topcv-716b5ebab9,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-ebf0b7fe41,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-446bfec5e6,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-dc4f0abb62,5,Data Science / ML / LLM,clustered
+topcv-b81d8786dd,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-6163822857,5,Data Science / ML / LLM,clustered
+topcv-605d8c01de,,,too_few_skills
+topcv-c324191a68,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-08cbc7018b,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-9fbf46797a,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-7f9d1eb1b2,,,too_few_skills
+topcv-e18b40d8ff,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-2a1699de13,5,Data Science / ML / LLM,clustered
+topcv-56ffafadff,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-229973cc8b,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-a7ededfee1,,,no_skills_extracted
+topcv-da3b79187d,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-ecd6d8b8c7,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-97de362155,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-e4bebadb56,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-2702e278dc,3,"Backend Java (Spring, Microservices)",clustered
+topcv-58fbb713f8,7,Quy trình Agile / Scrum,clustered
+topcv-79ec16857a,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-b59f1e9ad0,3,"Backend Java (Spring, Microservices)",clustered
+topcv-8622438b72,7,Quy trình Agile / Scrum,clustered
+topcv-c006894fac,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-04ec0fa22f,,,too_few_skills
+topcv-e6241d7f9d,3,"Backend Java (Spring, Microservices)",clustered
+topcv-ea3182d95b,5,Data Science / ML / LLM,clustered
+topcv-a7df8e42b9,5,Data Science / ML / LLM,clustered
+topcv-8bb45655d1,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-c67f428178,5,Data Science / ML / LLM,clustered
+topcv-a7a9bdf2d7,,,too_few_skills
+topcv-6ec45c9899,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-46903a10d1,,,no_skills_extracted
+topcv-8cf37f7d07,3,"Backend Java (Spring, Microservices)",clustered
+topcv-4b5c81b9fd,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-a6cbaaf021,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-aefef53a22,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-f9de15489c,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-69b7cf28d1,,,too_few_skills
+topcv-f6066e767e,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-024e59223d,,,too_few_skills
+topcv-38a5923a50,7,Quy trình Agile / Scrum,clustered
+topcv-e3ba0f1c55,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-2cfc8b4b1e,,,too_few_skills
+topcv-7e7a6c8b99,,,no_skills_extracted
+topcv-838624348d,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-0157313460,8,C / C++ và Linux,clustered
+topcv-021c826e47,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-eff9ec3140,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-e243b8e7a0,5,Data Science / ML / LLM,clustered
+topcv-762a405bcf,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-c4a59f8551,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-9b16608e85,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-51cfd846a4,,,too_few_skills
+topcv-d940c98909,5,Data Science / ML / LLM,clustered
+topcv-7f32db6a10,,,too_few_skills
+topcv-cac4bf04ef,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-2a74c55a6c,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-8ced35d7a3,,,too_few_skills
+topcv-054f0ef5be,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-1cfcc9ceb8,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-d655ff1d0b,,,too_few_skills
+topcv-c37d65b0a9,7,Quy trình Agile / Scrum,clustered
+topcv-f88187fb37,3,"Backend Java (Spring, Microservices)",clustered
+topcv-cf2d4be446,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-3482986f83,3,"Backend Java (Spring, Microservices)",clustered
+topcv-4a24f69bbd,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-9d52279f6b,3,"Backend Java (Spring, Microservices)",clustered
+topcv-851092a905,3,"Backend Java (Spring, Microservices)",clustered
+topcv-1946b07270,7,Quy trình Agile / Scrum,clustered
+topcv-bb972a73b3,,,no_skills_extracted
+topcv-2f071f9478,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-16b4692693,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-112355d34f,,,too_few_skills
+topcv-9160cb2051,3,"Backend Java (Spring, Microservices)",clustered
+topcv-fb9d0c33e1,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-8bf673424f,8,C / C++ và Linux,clustered
+topcv-5e187519f6,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-302f384820,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-8a3ccd760b,8,C / C++ và Linux,clustered
+topcv-c4b8998bcd,3,"Backend Java (Spring, Microservices)",clustered
+topcv-144338aad6,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-e3f4b7cdec,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-ef58486677,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-a737f800b4,7,Quy trình Agile / Scrum,clustered
+topcv-f217537d02,,,too_few_skills
+topcv-15357eebe9,7,Quy trình Agile / Scrum,clustered
+topcv-bdc8791127,,,too_few_skills
+topcv-6ed3e3f40b,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-582bf61b7a,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-e76b94e8e7,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-3df395dea4,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-29fb02c0f8,,,no_skills_extracted
+topcv-8841b7d96d,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-48e60cec12,,,too_few_skills
+topcv-816bd2e319,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-6db9c6bea9,,,too_few_skills
+topcv-04a41f2ea1,,,no_skills_extracted
+topcv-df89a42460,,,too_few_skills
+topcv-7ba384d311,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-17ed0c1d6d,,,too_few_skills
+topcv-f61c596c3f,7,Quy trình Agile / Scrum,clustered
+topcv-8e0e68a7e7,7,Quy trình Agile / Scrum,clustered
+topcv-f756fbb74f,7,Quy trình Agile / Scrum,clustered
+topcv-c3bcfc260d,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-fc2837f67c,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-5eb6f55160,7,Quy trình Agile / Scrum,clustered
+topcv-840ac1a6cb,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-a04b5ef9ba,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-f65d1162e3,,,too_few_skills
+topcv-9e63f5348d,,,no_skills_extracted
+topcv-37a35e0535,3,"Backend Java (Spring, Microservices)",clustered
+topcv-e1b6f8cae2,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-25916f9c26,,,too_few_skills
+topcv-013b5c6111,,,too_few_skills
+topcv-229561a537,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-67820aa7fe,3,"Backend Java (Spring, Microservices)",clustered
+topcv-47f65e0255,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-974da2296f,,,no_skills_extracted
+topcv-bb58bf9cf8,,,no_skills_extracted
+topcv-cef0c5363c,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-76e2781bfe,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-f76cd0e02d,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-0d912c3d89,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-f09a394603,7,Quy trình Agile / Scrum,clustered
+topcv-431f6347fc,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-c6e0e0d78c,,,no_skills_extracted
+topcv-b48f80c95b,,,no_skills_extracted
+topcv-470bb02811,7,Quy trình Agile / Scrum,clustered
+topcv-f3c9bc47e5,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-ddc33ebb00,,,no_skills_extracted
+topcv-3566cdee1a,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-e84d0db351,7,Quy trình Agile / Scrum,clustered
+topcv-4c81f750ad,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-aea717c138,5,Data Science / ML / LLM,clustered
+topcv-d0ceb5cfe0,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-1e3f88ac78,,,too_few_skills
+topcv-5b2fd6055c,7,Quy trình Agile / Scrum,clustered
+topcv-65c6df4ffe,,,no_skills_extracted
+topcv-e1c8bf8fc5,,,too_few_skills
+topcv-78988e645e,7,Quy trình Agile / Scrum,clustered
+topcv-0b9537758a,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-f378c9246b,7,Quy trình Agile / Scrum,clustered
+topcv-8664683039,5,Data Science / ML / LLM,clustered
+topcv-b92efe6d00,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-e2ee85eb49,,,too_few_skills
+topcv-58f22812c2,,,too_few_skills
+topcv-eebea178b9,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-e2f00da343,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-9bc58dcf13,7,Quy trình Agile / Scrum,clustered
+topcv-5699a66059,,,too_few_skills
+topcv-f8245f4379,,,too_few_skills
+topcv-74bdaee38c,,,no_skills_extracted
+topcv-8c7e0864d0,,,too_few_skills
+topcv-4e60f07e68,,,too_few_skills
+topcv-b8cf78923c,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-cc228db065,5,Data Science / ML / LLM,clustered
+topcv-b8ff9e43ae,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-c7499968b4,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-dfae212d18,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-2368f9730a,3,"Backend Java (Spring, Microservices)",clustered
+topcv-eba02a4c8b,3,"Backend Java (Spring, Microservices)",clustered
+topcv-b2bb7e7404,,,no_skills_extracted
+topcv-c51ad531e2,,,too_few_skills
+topcv-10ea6e1e64,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-9624d73dd4,,,too_few_skills
+topcv-d01045c349,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-00abb7ba4c,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-7844f1acc3,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-30066599ab,,,too_few_skills
+topcv-51361c21c1,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-7b7c8803b1,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-b317235222,,,too_few_skills
+topcv-8b45186683,,,too_few_skills
+topcv-aa87a72dd3,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-ad283772b2,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-45ebde98eb,3,"Backend Java (Spring, Microservices)",clustered
+topcv-0a2ce18883,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-0293dae578,,,too_few_skills
+topcv-3ccce37f88,7,Quy trình Agile / Scrum,clustered
+topcv-1e2f51cfa1,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-f5e5f4a838,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-a420cd2e1d,8,C / C++ và Linux,clustered
+topcv-589677b5d4,8,C / C++ và Linux,clustered
+topcv-bce6e6149c,,,too_few_skills
+topcv-0dae65e5dc,,,no_skills_extracted
+topcv-7814ad7805,,,too_few_skills
+topcv-981423dd1b,,,too_few_skills
+topcv-fa69d43b7d,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-a65c7a2614,5,Data Science / ML / LLM,clustered
+topcv-6c7e22788b,,,too_few_skills
+topcv-084cdf6bb2,8,C / C++ và Linux,clustered
+topcv-065504f11d,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-3e83a1ed26,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-947baccec1,,,no_skills_extracted
+topcv-a78d4649e3,,,too_few_skills
+topcv-d8c247230a,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-9b696499f5,,,too_few_skills
+topcv-fbea39696e,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-52e85abcf8,7,Quy trình Agile / Scrum,clustered
+topcv-14bd2f2bec,3,"Backend Java (Spring, Microservices)",clustered
+topcv-8c80b2335c,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-6c570374a9,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-c5c136134d,,,too_few_skills
+topcv-53a4109437,5,Data Science / ML / LLM,clustered
+topcv-26ae7a49e1,7,Quy trình Agile / Scrum,clustered
+topcv-9bf52880cd,7,Quy trình Agile / Scrum,clustered
+topcv-5285d31e2f,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-3594ba8ee4,,,too_few_skills
+topcv-2c1c5bb41f,,,no_skills_extracted
+topcv-ce3487199a,,,too_few_skills
+topcv-ec654a8ab3,7,Quy trình Agile / Scrum,clustered
+topcv-ea11b170e2,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-a443284fa0,,,no_skills_extracted
+topcv-17d8ef4d72,,,too_few_skills
+topcv-f1aa5cfc92,,,too_few_skills
+topcv-44962cc328,,,too_few_skills
+topcv-b32a28dfbb,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-6b6b701368,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-b6a143dcc4,3,"Backend Java (Spring, Microservices)",clustered
+topcv-19f71cc0ab,,,no_skills_extracted
+topcv-f65f0bce26,5,Data Science / ML / LLM,clustered
+topcv-64695122c6,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-6870e0f5dd,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-5a0644f514,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-0af97406bb,,,no_skills_extracted
+topcv-d016d8cb36,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-1f2a113b36,3,"Backend Java (Spring, Microservices)",clustered
+topcv-44eecfbfd1,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-b592831d0d,3,"Backend Java (Spring, Microservices)",clustered
+topcv-92ba7e5fc0,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-5d4283136b,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-38cd611bc5,,,too_few_skills
+topcv-dab539a00c,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-c88c96c84d,5,Data Science / ML / LLM,clustered
+topcv-5dde7acc88,,,too_few_skills
+topcv-c8742aa1e5,8,C / C++ và Linux,clustered
+topcv-d18bc7ed59,8,C / C++ và Linux,clustered
+topcv-f62582a41a,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-5adff64d0a,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-8c7083d734,8,C / C++ và Linux,clustered
+topcv-48bea47768,5,Data Science / ML / LLM,clustered
+topcv-b5b512783d,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-324350a508,5,Data Science / ML / LLM,clustered
+topcv-48d47886bd,7,Quy trình Agile / Scrum,clustered
+topcv-c6222015a7,,,no_skills_extracted
+topcv-ea11e5b92d,3,"Backend Java (Spring, Microservices)",clustered
+topcv-ded12273c9,7,Quy trình Agile / Scrum,clustered
+topcv-f6a97dc460,,,too_few_skills
+topcv-72b5895dcd,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-580d39a185,,,too_few_skills
+topcv-d776cd0a83,,,too_few_skills
+topcv-62974d1e67,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-384eb07d3d,,,too_few_skills
+topcv-dc64e29c78,7,Quy trình Agile / Scrum,clustered
+topcv-5c3938bd3e,7,Quy trình Agile / Scrum,clustered
+topcv-8e652fa936,8,C / C++ và Linux,clustered
+topcv-7495a5d9b2,5,Data Science / ML / LLM,clustered
+topcv-5adcdaff3a,8,C / C++ và Linux,clustered
+topcv-84b993f0b4,,,too_few_skills
+topcv-b152dc5577,7,Quy trình Agile / Scrum,clustered
+topcv-9988bbcb7e,5,Data Science / ML / LLM,clustered
+topcv-8806d7a36a,,,too_few_skills
+topcv-3231c48f43,,,no_skills_extracted
+topcv-453dae42d5,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-6f37d546bf,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-c51a56a30c,,,too_few_skills
+topcv-c620388dae,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-f18176d89c,,,too_few_skills
+topcv-b6de40d0ef,,,too_few_skills
+topcv-86654eef2e,,,too_few_skills
+topcv-2638643bb9,,,too_few_skills
+topcv-9f7829caf7,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-a897e4015d,,,too_few_skills
+topcv-f163be9c4d,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-69a776eda2,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-93c187a834,,,too_few_skills
+topcv-4248ba3d79,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-b167d0229a,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-bb8787b7eb,,,too_few_skills
+topcv-44bb0c486e,7,Quy trình Agile / Scrum,clustered
+topcv-b07baf7521,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-08582483af,8,C / C++ và Linux,clustered
+topcv-2e201bf678,5,Data Science / ML / LLM,clustered
+topcv-80c14ef207,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-cb11de89ee,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-6efd853c28,5,Data Science / ML / LLM,clustered
+topcv-fce57c59e2,,,no_skills_extracted
+topcv-7eea8462ac,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-e0acc4f157,7,Quy trình Agile / Scrum,clustered
+topcv-c1d5145639,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-04f1bf10f8,7,Quy trình Agile / Scrum,clustered
+topcv-2884380561,7,Quy trình Agile / Scrum,clustered
+topcv-eb007f49f5,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-81a48fea1c,3,"Backend Java (Spring, Microservices)",clustered
+topcv-5f9dc20ef7,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-24e4ee1fd6,,,too_few_skills
+topcv-2fd0b90f1c,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-801247cfd4,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-6773d33743,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-a23fa5696d,,,too_few_skills
+topcv-25761d1c2f,,,too_few_skills
+topcv-bbe7b49e77,5,Data Science / ML / LLM,clustered
+topcv-728e7ae21c,,,too_few_skills
+topcv-969b652c98,,,too_few_skills
+topcv-db4331b44a,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-1153765a5b,,,too_few_skills
+topcv-4b66b091d8,,,no_skills_extracted
+topcv-e5a6729184,8,C / C++ và Linux,clustered
+topcv-cbca7c987f,8,C / C++ và Linux,clustered
+topcv-90f21a1af4,,,too_few_skills
+topcv-7d89b1a915,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-4d15cc328f,7,Quy trình Agile / Scrum,clustered
+topcv-75896de038,,,too_few_skills
+topcv-0c51f98f04,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-76fa776678,,,too_few_skills
+topcv-ae87830a00,,,too_few_skills
+topcv-9dc331b44b,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-d71d3b7af9,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-2101973a30,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-c4e2018cca,,,too_few_skills
+topcv-cd42c0f1da,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-4e18088527,3,"Backend Java (Spring, Microservices)",clustered
+topcv-337474ef6d,,,no_skills_extracted
+topcv-b643704403,7,Quy trình Agile / Scrum,clustered
+topcv-1b645e1cfe,,,too_few_skills
+topcv-a3bf936793,,,too_few_skills
+topcv-addabe80ab,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-908cde526a,3,"Backend Java (Spring, Microservices)",clustered
+topcv-da376d63ab,5,Data Science / ML / LLM,clustered
+topcv-5e14ef05c1,,,too_few_skills
+topcv-38131887f3,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-4b88542a06,,,too_few_skills
+topcv-651f99781a,,,too_few_skills
+topcv-ae2b573f2e,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-b3d9c9040a,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-9279b22bf4,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-b1c2ecd9dc,5,Data Science / ML / LLM,clustered
+topcv-34b6ad6d16,,,too_few_skills
+topcv-7ae4c3b88d,,,no_skills_extracted
+topcv-5524fbde08,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-9ea993d543,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-8cfffaeea1,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-917e1b6fd1,7,Quy trình Agile / Scrum,clustered
+topcv-f1b81af774,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-dfe43be5b4,,,no_skills_extracted
+topcv-78d03b3b87,,,too_few_skills
+topcv-fae2478692,7,Quy trình Agile / Scrum,clustered
+topcv-6cdd4a773b,,,too_few_skills
+topcv-b378009bf5,,,no_skills_extracted
+topcv-84a59729c9,,,no_skills_extracted
+topcv-69e3be7574,,,too_few_skills
+topcv-32f33b7100,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-2461da1f55,,,no_skills_extracted
+topcv-6f395ced6b,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-1862b89a56,,,too_few_skills
+topcv-77e75a9147,3,"Backend Java (Spring, Microservices)",clustered
+topcv-a1d3bd2441,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-6f2efd3ed0,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-89f5b91de8,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-3c54b3e425,,,no_skills_extracted
+topcv-8152d6833a,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-b9d3d9760f,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-6baad9a2db,,,no_skills_extracted
+topcv-4964a7862b,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-d1418ef0f4,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-209b4b9d76,,,no_skills_extracted
+topcv-03d72be6c8,,,too_few_skills
+topcv-b400a0a907,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-c5012ffe6b,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-2cc43bbcb5,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-0a7976f8a7,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-2cdb86b0de,,,no_skills_extracted
+topcv-c67c8e3342,,,too_few_skills
+topcv-0720659d73,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-86951e01f2,,,too_few_skills
+topcv-2cffef8e96,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-1ab9399b76,,,too_few_skills
+topcv-9d4d6ab3d2,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-3984282bb0,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-a93221fd9a,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-c789e1372f,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-2d5ba9ec5f,,,too_few_skills
+topcv-c67503611b,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-6d3b3852c4,,,too_few_skills
+topcv-237c8daca0,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-6465f5350c,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-011ef49472,7,Quy trình Agile / Scrum,clustered
+topcv-794f7c6027,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-fe86447203,7,Quy trình Agile / Scrum,clustered
+topcv-5053b20926,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-317c08ed66,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-761df65951,7,Quy trình Agile / Scrum,clustered
+topcv-2fca180bbc,8,C / C++ và Linux,clustered
+topcv-2bef26436d,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-b9bebbf98b,,,too_few_skills
+topcv-4ace830e96,,,too_few_skills
+topcv-01438e782f,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-d86c721c15,,,too_few_skills
+topcv-92f500f9c7,,,too_few_skills
+topcv-d1654211f7,3,"Backend Java (Spring, Microservices)",clustered
+topcv-ed6b18d536,5,Data Science / ML / LLM,clustered
+topcv-85222cddbf,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-2122773da9,,,too_few_skills
+topcv-6b040619fa,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-b40e5a0458,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-6b7ec7306e,,,too_few_skills
+topcv-4f1a72d5b7,,,too_few_skills
+topcv-5a84354fe3,8,C / C++ và Linux,clustered
+topcv-ff9a069df4,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-16b0e16f4a,,,too_few_skills
+topcv-9cb68489f0,,,too_few_skills
+topcv-ba25b9858b,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-3ad5f0e308,5,Data Science / ML / LLM,clustered
+topcv-aeff835d02,3,"Backend Java (Spring, Microservices)",clustered
+topcv-4478ed5959,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-33b73baff3,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-ac517deb72,3,"Backend Java (Spring, Microservices)",clustered
+topcv-79e8ea9d94,7,Quy trình Agile / Scrum,clustered
+topcv-8af56f96fe,7,Quy trình Agile / Scrum,clustered
+topcv-7c30afe4ed,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-df5540c94a,,,too_few_skills
+topcv-4b4f30034e,,,no_skills_extracted
+topcv-f038c71354,3,"Backend Java (Spring, Microservices)",clustered
+topcv-4962dbac5b,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-495c41ec65,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-3bb47d43e2,,,too_few_skills
+topcv-728bab5a7d,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-83d1992ba5,,,no_skills_extracted
+topcv-4a86fef294,,,too_few_skills
+topcv-15e362d5f4,8,C / C++ và Linux,clustered
+topcv-ba7b73de86,7,Quy trình Agile / Scrum,clustered
+topcv-bb0254e619,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-e58017abe7,,,no_skills_extracted
+topcv-f71159cf35,,,no_skills_extracted
+topcv-78909980fb,5,Data Science / ML / LLM,clustered
+topcv-180788f60f,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-51aa721510,,,too_few_skills
+topcv-9ea9ddd7d5,,,too_few_skills
+topcv-305f3a5c5e,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-18b248aaf8,,,too_few_skills
+topcv-f5b7395ec2,,,no_skills_extracted
+topcv-41eed086bb,,,no_skills_extracted
+topcv-3358ebc07c,,,too_few_skills
+topcv-cea4230331,,,no_skills_extracted
+topcv-9ad0eb8557,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-7079aff124,7,Quy trình Agile / Scrum,clustered
+topcv-2daee8fb9d,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-9642106784,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-c61f923fd7,,,too_few_skills
+topcv-28c0e65e4a,3,"Backend Java (Spring, Microservices)",clustered
+topcv-ab479117ea,3,"Backend Java (Spring, Microservices)",clustered
+topcv-92f451dba2,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-76576e162f,,,no_skills_extracted
+topcv-0ff489b5d4,5,Data Science / ML / LLM,clustered
+topcv-03fd622920,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-8700af8b38,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-f96c1ea06d,,,no_skills_extracted
+topcv-4f5b5eae89,5,Data Science / ML / LLM,clustered
+topcv-0219a22f7b,,,too_few_skills
+topcv-dcab0e9148,3,"Backend Java (Spring, Microservices)",clustered
+topcv-cd2bef387e,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-88aec2fcfe,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-3295d0076e,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-71e538328a,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-29f8120eb2,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-0ab244980f,,,no_skills_extracted
+topcv-5629c1e68a,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-3f106ec828,5,Data Science / ML / LLM,clustered
+topcv-efbb038ed6,,,no_skills_extracted
+topcv-8ebfa12db6,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-bd6bc6b4dc,,,too_few_skills
+topcv-08e174717c,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-457d1eaba5,,,too_few_skills
+topcv-f09af666a8,,,too_few_skills
+topcv-9915e620ec,,,no_skills_extracted
+topcv-9a2054504f,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-fe7370e5fe,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-d4ed3a3f76,7,Quy trình Agile / Scrum,clustered
+topcv-9b2d453f21,,,too_few_skills
+topcv-71af7a25a3,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-6da598618d,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-8cb5d4f982,,,no_skills_extracted
+topcv-0cd7b089c2,3,"Backend Java (Spring, Microservices)",clustered
+topcv-c48b4d76b8,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-802c7108e6,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-977dc968d0,3,"Backend Java (Spring, Microservices)",clustered
+topcv-900cbe09a6,,,no_skills_extracted
+topcv-85aca76c81,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-c662940ae8,8,C / C++ và Linux,clustered
+topcv-96c19bd4b7,5,Data Science / ML / LLM,clustered
+topcv-80281d37a3,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-5cc8acec0d,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-3830945a3b,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-c77d8b5335,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-681cee4eed,3,"Backend Java (Spring, Microservices)",clustered
+topcv-10b4e1a6cc,3,"Backend Java (Spring, Microservices)",clustered
+topcv-edad863424,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-c198c5580b,,,no_skills_extracted
+topcv-4a32fdac58,,,too_few_skills
+topcv-ca52fd40ff,,,no_skills_extracted
+topcv-38e7101e79,,,too_few_skills
+topcv-85cc4ac17b,,,too_few_skills
+topcv-3295185863,5,Data Science / ML / LLM,clustered
+topcv-e8b7cbf068,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-106b40c35f,5,Data Science / ML / LLM,clustered
+topcv-a6798f2c6a,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-2af514c0ce,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-d8b48bae6d,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-af90f4096d,3,"Backend Java (Spring, Microservices)",clustered
+topcv-ce1b91dd7e,5,Data Science / ML / LLM,clustered
+topcv-cff1e32624,5,Data Science / ML / LLM,clustered
+topcv-73f01acae9,,,too_few_skills
+topcv-086f47514b,3,"Backend Java (Spring, Microservices)",clustered
+topcv-ccb3133746,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-5ef602326b,,,no_skills_extracted
+topcv-3a1407f13c,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-000df2b75a,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-64860b468f,3,"Backend Java (Spring, Microservices)",clustered
+topcv-ce40591108,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-69d6e7a7da,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-c4c98e7f9e,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-9592c312cd,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-557eacbcbc,,,too_few_skills
+topcv-1d8d364e73,,,no_skills_extracted
+topcv-7dc4a1c947,,,no_skills_extracted
+topcv-f0f80d939c,7,Quy trình Agile / Scrum,clustered
+topcv-5782fea218,3,"Backend Java (Spring, Microservices)",clustered
+topcv-17fe13067e,7,Quy trình Agile / Scrum,clustered
+topcv-db4d63c9e3,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-9b64fce266,,,too_few_skills
+topcv-bc643c032d,,,too_few_skills
+topcv-0d1efee5d7,,,too_few_skills
+topcv-7d1406cc14,3,"Backend Java (Spring, Microservices)",clustered
+topcv-a3feda89f6,,,no_skills_extracted
+topcv-b90ec83fc0,8,C / C++ và Linux,clustered
+topcv-5bf742560f,,,too_few_skills
+topcv-0114f2dcbe,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-39eaddaceb,,,too_few_skills
+topcv-f8154cadc6,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-8705ab0fad,7,Quy trình Agile / Scrum,clustered
+topcv-f2352aa4fd,3,"Backend Java (Spring, Microservices)",clustered
+topcv-6067d686b2,5,Data Science / ML / LLM,clustered
+topcv-bb8b6abeb9,,,too_few_skills
+topcv-56d7e517c1,,,too_few_skills
+topcv-154637c240,3,"Backend Java (Spring, Microservices)",clustered
+topcv-641f3eab04,,,too_few_skills
+topcv-1e0d4db3e5,,,too_few_skills
+topcv-a3acc89db3,,,no_skills_extracted
+topcv-9b9e21a066,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-7639881630,3,"Backend Java (Spring, Microservices)",clustered
+topcv-d23613b74b,7,Quy trình Agile / Scrum,clustered
+topcv-082c251c08,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-7a85caeb63,7,Quy trình Agile / Scrum,clustered
+topcv-40efc57757,7,Quy trình Agile / Scrum,clustered
+topcv-f75fdefeb3,5,Data Science / ML / LLM,clustered
+topcv-e17a44d0a4,5,Data Science / ML / LLM,clustered
+topcv-78c716572b,,,no_skills_extracted
+topcv-fc905fa8dc,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-7a005d708a,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-aef251c0f9,7,Quy trình Agile / Scrum,clustered
+topcv-7418ce514c,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-22e9f4a403,8,C / C++ và Linux,clustered
+topcv-652f9817da,,,no_skills_extracted
+topcv-711eb2c3df,,,no_skills_extracted
+topcv-88bdc3dd82,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-6acec93243,3,"Backend Java (Spring, Microservices)",clustered
+topcv-935fb60cad,3,"Backend Java (Spring, Microservices)",clustered
+topcv-ffc16e042f,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-d2b77eb800,,,no_skills_extracted
+topcv-b1ec45db46,7,Quy trình Agile / Scrum,clustered
+topcv-ed7d6a63ee,3,"Backend Java (Spring, Microservices)",clustered
+topcv-b1fe2a17f3,7,Quy trình Agile / Scrum,clustered
+topcv-386e0086b8,,,too_few_skills
+topcv-e52a6a92cf,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-200c803e6e,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-16241343c0,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-318e48e6df,5,Data Science / ML / LLM,clustered
+topcv-2f85f510f2,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-17268e9175,,,too_few_skills
+topcv-037e30a13e,5,Data Science / ML / LLM,clustered
+topcv-50e6005896,,,too_few_skills
+topcv-05e371f665,,,too_few_skills
+topcv-7969f91dd1,7,Quy trình Agile / Scrum,clustered
+topcv-bb57307ea2,3,"Backend Java (Spring, Microservices)",clustered
+topcv-a2a8fbc780,5,Data Science / ML / LLM,clustered
+topcv-5fd7af1192,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-787f909555,3,"Backend Java (Spring, Microservices)",clustered
+topcv-5817568321,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-b6fbf99de0,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-975fa1a086,7,Quy trình Agile / Scrum,clustered
+topcv-21037b8645,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-a33d8f89cc,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-2c9cb0217a,,,too_few_skills
+topcv-8f8b0651bb,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-a616c7a639,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-1973ba3d23,7,Quy trình Agile / Scrum,clustered
+topcv-b56a92652c,3,"Backend Java (Spring, Microservices)",clustered
+topcv-65ccfa2e4b,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-a17b8ddb6e,,,too_few_skills
+topcv-0e38c05e23,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-1104d2ff63,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-3a68374711,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-d203991bc8,3,"Backend Java (Spring, Microservices)",clustered
+topcv-ddec31d084,5,Data Science / ML / LLM,clustered
+topcv-f2976766c0,8,C / C++ và Linux,clustered
+topcv-d844f3e23c,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-e3f955f625,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-9a45db755d,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-4e446fb8fe,,,too_few_skills
+topcv-336ab77452,3,"Backend Java (Spring, Microservices)",clustered
+topcv-27a9a1d44d,,,too_few_skills
+topcv-421c3b0d42,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-7e77703058,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-78dbb4f822,,,too_few_skills
+topcv-9ad04c836a,,,too_few_skills
+topcv-0ec23e8e91,,,no_skills_extracted
+topcv-dea1e897ce,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-cc6d13e14d,5,Data Science / ML / LLM,clustered
+topcv-a2c7ee4306,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-f62bb052f6,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-fbe95f944f,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-893b750c69,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-a0ca7e050a,7,Quy trình Agile / Scrum,clustered
+topcv-a9e9ea4260,5,Data Science / ML / LLM,clustered
+topcv-8ab35bda72,3,"Backend Java (Spring, Microservices)",clustered
+topcv-e279fd2e16,,,too_few_skills
+topcv-ceb2e19895,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-ffc47404b6,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-c1263f1014,,,too_few_skills
+topcv-0df6f6bdb9,8,C / C++ và Linux,clustered
+topcv-c4094544d0,7,Quy trình Agile / Scrum,clustered
+topcv-090963c65e,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-fabf7e7dd0,,,too_few_skills
+topcv-13e604d476,7,Quy trình Agile / Scrum,clustered
+topcv-faa8273cf9,7,Quy trình Agile / Scrum,clustered
+topcv-ff4bc569c9,,,no_skills_extracted
+topcv-20a61d57ce,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-49fcaa99c2,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-4c201a582c,7,Quy trình Agile / Scrum,clustered
+topcv-6c061841e2,,,too_few_skills
+topcv-907903c170,5,Data Science / ML / LLM,clustered
+topcv-f35cd39de6,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-97d3833a38,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-c8a6d52883,,,too_few_skills
+topcv-f4594a3e0b,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-d1ede1af4c,,,too_few_skills
+topcv-6a1b234910,,,too_few_skills
+topcv-a7f465f126,3,"Backend Java (Spring, Microservices)",clustered
+topcv-12f8bf0a10,,,too_few_skills
+topcv-46799c1b72,7,Quy trình Agile / Scrum,clustered
+topcv-d14dfa828a,,,no_skills_extracted
+topcv-0bfe539e95,3,"Backend Java (Spring, Microservices)",clustered
+topcv-2721c268d9,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-cd942860e1,3,"Backend Java (Spring, Microservices)",clustered
+topcv-c345a4dc85,,,too_few_skills
+topcv-0544955522,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-2406149af7,5,Data Science / ML / LLM,clustered
+topcv-0beccc587e,5,Data Science / ML / LLM,clustered
+topcv-bd4058a983,7,Quy trình Agile / Scrum,clustered
+topcv-0602836ab6,,,too_few_skills
+topcv-39190b1775,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-1e56c9e5f5,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-b082132cbe,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-9010a177e0,7,Quy trình Agile / Scrum,clustered
+topcv-f0b550428d,3,"Backend Java (Spring, Microservices)",clustered
+topcv-328b9168df,,,no_skills_extracted
+topcv-ce32674e88,,,too_few_skills
+topcv-b47a3a1b2d,8,C / C++ và Linux,clustered
+topcv-b217a3c34c,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-c67dd6197f,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-7d5d89edb9,,,no_skills_extracted
+topcv-cb7799e01a,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-59823830f4,3,"Backend Java (Spring, Microservices)",clustered
+topcv-7903431a8c,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-e9f3a10475,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-c687133b63,,,no_skills_extracted
+topcv-a2c2e846d8,3,"Backend Java (Spring, Microservices)",clustered
+topcv-ab8ea2d0fb,,,too_few_skills
+topcv-270c8ed6e0,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-d562bf7eb2,7,Quy trình Agile / Scrum,clustered
+topcv-73f1e4b8e4,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-8bed32fb87,5,Data Science / ML / LLM,clustered
+topcv-cb052c107d,7,Quy trình Agile / Scrum,clustered
+topcv-5916c75e12,,,no_skills_extracted
+topcv-13a23d253c,,,too_few_skills
+topcv-a21d4ec9cd,,,too_few_skills
+topcv-76b834f62a,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-f9d869046b,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-9be1d4037f,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-d76910a6dc,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-537f5c184d,,,no_skills_extracted
+topcv-dfffdad1db,3,"Backend Java (Spring, Microservices)",clustered
+topcv-91f8dad16f,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-65bc4082b6,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-37f082b66f,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-15335e1d31,5,Data Science / ML / LLM,clustered
+topcv-05baca6745,,,no_skills_extracted
+topcv-68e2f5ac7b,3,"Backend Java (Spring, Microservices)",clustered
+topcv-ca9b546519,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-ae97606a38,7,Quy trình Agile / Scrum,clustered
+topcv-67e1134172,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-c334caae87,5,Data Science / ML / LLM,clustered
+topcv-8315ad40f2,3,"Backend Java (Spring, Microservices)",clustered
+topcv-b86aef7707,7,Quy trình Agile / Scrum,clustered
+topcv-dcfd586c74,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-8b77971a68,5,Data Science / ML / LLM,clustered
+topcv-53ace40566,3,"Backend Java (Spring, Microservices)",clustered
+topcv-e3095cdef4,3,"Backend Java (Spring, Microservices)",clustered
+topcv-beb5df6da3,,,too_few_skills
+topcv-4153b5d4a5,,,too_few_skills
+topcv-a29a446f62,,,too_few_skills
+topcv-d4fd2b943b,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-93c416d5cd,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-7af6e7104f,5,Data Science / ML / LLM,clustered
+topcv-b5c7d25b6a,,,too_few_skills
+topcv-4ecd2bac03,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-1dfe4b1560,,,too_few_skills
+topcv-53cb4f0122,,,too_few_skills
+topcv-f0c5ad189f,3,"Backend Java (Spring, Microservices)",clustered
+topcv-8f27e59ee2,,,no_skills_extracted
+topcv-c15152840f,,,too_few_skills
+topcv-2bf9d003b9,,,too_few_skills
+topcv-9d69da073a,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-6f31962947,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-483e8d3e83,,,too_few_skills
+topcv-3d715d02ae,,,too_few_skills
+topcv-607db94e0e,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-c9939cda6f,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-bb7bd03164,,,no_skills_extracted
+topcv-a7843d1084,3,"Backend Java (Spring, Microservices)",clustered
+topcv-f8d365d6be,7,Quy trình Agile / Scrum,clustered
+topcv-1f9143108d,8,C / C++ và Linux,clustered
+topcv-d552e3a02a,3,"Backend Java (Spring, Microservices)",clustered
+topcv-119c6afe67,,,no_skills_extracted
+topcv-d1dc28845d,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-4e3b0bbc57,,,too_few_skills
+topcv-c0b18710ea,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-8d72f6744c,5,Data Science / ML / LLM,clustered
+topcv-5b1007e02d,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-e23c32b5d1,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-98d7cbe2c5,3,"Backend Java (Spring, Microservices)",clustered
+topcv-aba0affd76,5,Data Science / ML / LLM,clustered
+topcv-32e6c05b0a,,,too_few_skills
+topcv-07cca9995d,,,too_few_skills
+topcv-5003456d92,8,C / C++ và Linux,clustered
+topcv-9254e28609,,,too_few_skills
+topcv-ec343e08dd,,,no_skills_extracted
+topcv-2ef7f4e321,7,Quy trình Agile / Scrum,clustered
+topcv-a8bad1e7ba,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-0e65abd962,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-55271b71d6,7,Quy trình Agile / Scrum,clustered
+topcv-16b1cfe2c3,3,"Backend Java (Spring, Microservices)",clustered
+topcv-256e74d28b,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-74385de768,,,too_few_skills
+topcv-c8aae5cb17,5,Data Science / ML / LLM,clustered
+topcv-adb1468881,,,no_skills_extracted
+topcv-6739f12f30,8,C / C++ và Linux,clustered
+topcv-1068595141,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-c84a438dcd,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-ca1208ab2f,5,Data Science / ML / LLM,clustered
+topcv-7185a5d9b6,,,too_few_skills
+topcv-d0673d30cf,,,too_few_skills
+topcv-1fb2c3355d,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-ae46854ba5,,,too_few_skills
+topcv-2d31b1301b,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-3de4e13175,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-0c2baef079,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-a32d8ea6ca,3,"Backend Java (Spring, Microservices)",clustered
+topcv-442b09754f,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-855cf4e95c,7,Quy trình Agile / Scrum,clustered
+topcv-c92a060ce0,,,too_few_skills
+topcv-26731a04aa,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-2d4c1007b5,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-696d229df5,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-c257dbad5a,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-079ed4c9a6,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-ced6d9943b,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-7039a3e315,5,Data Science / ML / LLM,clustered
+topcv-d0c3889545,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-d3b341fc80,,,no_skills_extracted
+topcv-8c895e0ad4,7,Quy trình Agile / Scrum,clustered
+topcv-1220cb9018,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-a11dccd4cc,5,Data Science / ML / LLM,clustered
+topcv-d10de02013,,,too_few_skills
+topcv-353f184a4a,,,too_few_skills
+topcv-7e1ce9686a,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-1a4722ffd8,8,C / C++ và Linux,clustered
+topcv-3804a5d8a2,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-dc88d556f1,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-a1cd85c153,8,C / C++ và Linux,clustered
+topcv-e3c5c04fe9,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-b5f4fbff89,,,too_few_skills
+topcv-834a4d1dec,,,no_skills_extracted
+topcv-07ff8a5793,5,Data Science / ML / LLM,clustered
+topcv-042c264a22,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-0228cf4575,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-912c24cd4f,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-bdbb6876d2,3,"Backend Java (Spring, Microservices)",clustered
+topcv-982794169a,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-f4d043bae0,,,no_skills_extracted
+topcv-b3f08af022,7,Quy trình Agile / Scrum,clustered
+topcv-10570fa204,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-151482d370,,,no_skills_extracted
+topcv-82696e2f63,3,"Backend Java (Spring, Microservices)",clustered
+topcv-de0054a58a,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-4f8cdfe12a,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-33d00492d3,,,too_few_skills
+topcv-9e742e67e1,,,too_few_skills
+topcv-47b816dab7,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-cc70c28361,7,Quy trình Agile / Scrum,clustered
+topcv-d7a314328b,,,no_skills_extracted
+topcv-7c1f4fd8ce,,,too_few_skills
+topcv-d76685447b,3,"Backend Java (Spring, Microservices)",clustered
+topcv-268ff67aee,3,"Backend Java (Spring, Microservices)",clustered
+topcv-b52e0c61f8,7,Quy trình Agile / Scrum,clustered
+topcv-01ad6aeefb,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-1db2315762,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-392017d89d,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-e01fa34e64,,,no_skills_extracted
+topcv-2e89dd1a2d,,,too_few_skills
+topcv-e094f9d712,,,too_few_skills
+topcv-bca0dd0d78,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-80169d32eb,3,"Backend Java (Spring, Microservices)",clustered
+topcv-c6e5732700,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-2dec577247,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-5ddb098ea6,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-1c8fd86a42,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-3402cc47ae,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-e412d300fa,,,no_skills_extracted
+topcv-f0e0ab58bc,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-d378015fe4,,,too_few_skills
+topcv-4e7f6e12d3,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-79528b2b61,,,too_few_skills
+topcv-c810801f03,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-200e8873be,5,Data Science / ML / LLM,clustered
+topcv-b8f6efb1d4,,,no_skills_extracted
+topcv-b0b8619d8e,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-0841eb9d5d,8,C / C++ và Linux,clustered
+topcv-278928b01e,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-e9ebd38815,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-ee01f68b68,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-e0943c6151,,,no_skills_extracted
+topcv-386d0b182f,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-5d07e6f44e,7,Quy trình Agile / Scrum,clustered
+topcv-a62043bb44,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-e487e352b2,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-023e5f6571,,,no_skills_extracted
+topcv-684a01a216,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-37f279e2cf,,,too_few_skills
+topcv-347623b125,8,C / C++ và Linux,clustered
+topcv-028b56d539,,,too_few_skills
+topcv-7ed5cc874c,8,C / C++ và Linux,clustered
+topcv-e6aa3665b8,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-093c63fe6d,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-b2fc0dcd49,3,"Backend Java (Spring, Microservices)",clustered
+topcv-2850846dc2,,,no_skills_extracted
+topcv-10f74df613,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-f6f900323a,,,no_skills_extracted
+topcv-8b34df5f1e,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-c9abc082b3,7,Quy trình Agile / Scrum,clustered
+topcv-32a80c9bba,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-2ab58e2402,3,"Backend Java (Spring, Microservices)",clustered
+topcv-4b9139ddee,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-84546b58a2,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-2544b37794,,,too_few_skills
+topcv-12df0810ad,7,Quy trình Agile / Scrum,clustered
+topcv-43261f4a27,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-b687fc2e32,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-00666ad7f5,,,too_few_skills
+topcv-ae102a1244,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-8c70167b2d,,,too_few_skills
+topcv-37016bc2a4,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-89d06a2a88,,,too_few_skills
+topcv-8bc4ce04e3,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-0be4c52c63,,,too_few_skills
+topcv-8f36699f68,3,"Backend Java (Spring, Microservices)",clustered
+topcv-cecd19e9b5,,,no_skills_extracted
+topcv-74c1a5cb6e,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-72aafc4967,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-13ed7181a9,3,"Backend Java (Spring, Microservices)",clustered
+topcv-1fe6e622d0,,,no_skills_extracted
+topcv-0183e4a2a6,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-dc5799b217,,,no_skills_extracted
+topcv-ca281657b9,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-181b855d20,,,too_few_skills
+topcv-72fc823841,5,Data Science / ML / LLM,clustered
+topcv-cf58a62b72,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-e704841fab,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-3ec4c0c150,,,too_few_skills
+topcv-4ec535fb89,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-eebe702291,3,"Backend Java (Spring, Microservices)",clustered
+topcv-a32d630678,7,Quy trình Agile / Scrum,clustered
+topcv-23b8f7c814,,,too_few_skills
+topcv-9ad84b78b2,,,too_few_skills
+topcv-1e1d6d0ef8,,,too_few_skills
+topcv-f202aa311d,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-cd1cfba149,3,"Backend Java (Spring, Microservices)",clustered
+topcv-c7c699fe6a,7,Quy trình Agile / Scrum,clustered
+topcv-62eb17d5ed,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-ce7df09569,5,Data Science / ML / LLM,clustered
+topcv-b31b08ac33,7,Quy trình Agile / Scrum,clustered
+topcv-8d44295e35,7,Quy trình Agile / Scrum,clustered
+topcv-ba9d20cf4f,,,too_few_skills
+topcv-9bf44d7275,,,too_few_skills
+topcv-9a073db6c4,,,too_few_skills
+topcv-8d85c99486,,,too_few_skills
+topcv-0728ae294e,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-25c475f685,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-873f1367d8,,,too_few_skills
+topcv-9b6643fab4,,,too_few_skills
+topcv-9fda5e84c9,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-6d554ced9e,3,"Backend Java (Spring, Microservices)",clustered
+topcv-5ad3d1ef87,5,Data Science / ML / LLM,clustered
+topcv-901d401e92,,,no_skills_extracted
+topcv-9e27573a1f,3,"Backend Java (Spring, Microservices)",clustered
+topcv-c1f3b175c9,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-3789920417,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-13fbba0359,,,too_few_skills
+topcv-172ca99ecc,3,"Backend Java (Spring, Microservices)",clustered
+topcv-55b8b27d1d,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-45ba45f012,,,no_skills_extracted
+topcv-d3645722b8,,,too_few_skills
+topcv-ab56d0f985,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-38216be548,7,Quy trình Agile / Scrum,clustered
+topcv-178a430c5b,,,too_few_skills
+topcv-df5c6e6a13,,,too_few_skills
+topcv-87cf9ba7c8,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-1fbea03a54,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-a951fab427,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-d63d8a7ccb,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-71552bf3e7,,,too_few_skills
+topcv-0006ba6b5b,3,"Backend Java (Spring, Microservices)",clustered
+topcv-d835f56d8a,,,no_skills_extracted
+topcv-d62a57f0de,5,Data Science / ML / LLM,clustered
+topcv-538c132ba4,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-2598179056,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-dc869bd4cb,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-3a74871042,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-982c7598bb,,,no_skills_extracted
+topcv-39553cd16e,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-4e688a1a9a,,,too_few_skills
+topcv-3f56e7287f,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-f56e629771,3,"Backend Java (Spring, Microservices)",clustered
+topcv-af000bc56a,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-0bb87e27fd,7,Quy trình Agile / Scrum,clustered
+topcv-a31915c3c7,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-47b6da058e,,,too_few_skills
+topcv-c9edada87b,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-fc81657427,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-3d5b872924,3,"Backend Java (Spring, Microservices)",clustered
+topcv-567b1ea59c,3,"Backend Java (Spring, Microservices)",clustered
+topcv-71de22b997,,,too_few_skills
+topcv-0ad002cd63,3,"Backend Java (Spring, Microservices)",clustered
+topcv-878eb26f54,,,too_few_skills
+topcv-c7c40565b1,5,Data Science / ML / LLM,clustered
+topcv-a7aa0710ac,7,Quy trình Agile / Scrum,clustered
+topcv-d3d8cd52dc,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-47a49d3c72,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-5634e63f2e,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-d5b289ece7,,,too_few_skills
+topcv-9611be6fe9,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-17ef983c38,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-902aad78b8,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-07506ed19e,,,no_skills_extracted
+topcv-7f09b4c4c0,7,Quy trình Agile / Scrum,clustered
+topcv-502f45c76c,7,Quy trình Agile / Scrum,clustered
+topcv-405f51d006,5,Data Science / ML / LLM,clustered
+topcv-b7f3a3f32d,7,Quy trình Agile / Scrum,clustered
+topcv-bf11726ab0,,,too_few_skills
+topcv-2e1f569990,5,Data Science / ML / LLM,clustered
+topcv-9191164765,7,Quy trình Agile / Scrum,clustered
+topcv-0e0ba03fc9,3,"Backend Java (Spring, Microservices)",clustered
+topcv-80bd9cad18,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-c0061aa58f,3,"Backend Java (Spring, Microservices)",clustered
+topcv-20fe4ccef7,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-191dec1700,7,Quy trình Agile / Scrum,clustered
+topcv-12ad8be7f2,3,"Backend Java (Spring, Microservices)",clustered
+topcv-fdcab02d5a,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-216a000702,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-f95897e8e0,7,Quy trình Agile / Scrum,clustered
+topcv-d9963bfced,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-03cf1a7828,,,too_few_skills
+topcv-8ddd7f8a7c,,,too_few_skills
+topcv-ac129a774c,,,too_few_skills
+topcv-3aa5045c4a,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-388cd6cdfa,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-37b296d004,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-c16806b703,3,"Backend Java (Spring, Microservices)",clustered
+topcv-03571d2b3e,,,no_skills_extracted
+topcv-4358628f02,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-5c8bc6b7f5,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-36bbabaec2,,,too_few_skills
+topcv-0406ecf73f,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-c2efa0ab1d,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-50e9f8a6b7,,,no_skills_extracted
+topcv-fcc20ab1d7,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-e153c2871b,,,too_few_skills
+topcv-ec574097aa,,,too_few_skills
+topcv-0e2c2cc993,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-033a519fc3,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-56d7ecde8c,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-06a4cae8fd,,,too_few_skills
+topcv-d425f9ddec,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-05cd16649b,7,Quy trình Agile / Scrum,clustered
+topcv-237b64c3dd,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topcv-f274d869fb,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topcv-277210ae98,1,"Frontend và Web (HTML, JS, React)",clustered
+topcv-12d1a0998c,,,no_skills_extracted
+topcv-e5b1858e49,,,no_skills_extracted
+topcv-3f015f3dfe,,,too_few_skills
+topcv-8e162e3fed,5,Data Science / ML / LLM,clustered
+topcv-edcf745ffa,6,"Hệ thống, mạng và bảo mật",clustered
+topcv-ce08ac841b,,,too_few_skills
+topcv-ee261f6106,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topdev-8808e7584f,3,"Backend Java (Spring, Microservices)",clustered
+topdev-0085a08bbe,7,Quy trình Agile / Scrum,clustered
+topdev-6425c2ce74,,,no_skills_extracted
+topdev-795cc2fa0d,,,too_few_skills
+topdev-d5c5cfbb65,,,no_skills_extracted
+topdev-a4506a0df8,3,"Backend Java (Spring, Microservices)",clustered
+topdev-167251024c,,,no_skills_extracted
+topdev-10db6d3c43,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topdev-99f8033b46,3,"Backend Java (Spring, Microservices)",clustered
+topdev-8de1b895cb,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topdev-6c6d2518e2,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topdev-2472bc7434,1,"Frontend và Web (HTML, JS, React)",clustered
+topdev-99922841e5,5,Data Science / ML / LLM,clustered
+topdev-88e9771de9,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topdev-7f6adbd374,7,Quy trình Agile / Scrum,clustered
+topdev-969877c089,1,"Frontend và Web (HTML, JS, React)",clustered
+topdev-17a7998c78,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topdev-f44147f671,,,too_few_skills
+topdev-13fa7c7f57,,,no_skills_extracted
+topdev-3506cb25b2,1,"Frontend và Web (HTML, JS, React)",clustered
+topdev-54b567adda,3,"Backend Java (Spring, Microservices)",clustered
+topdev-32c9593508,6,"Hệ thống, mạng và bảo mật",clustered
+topdev-e4731f6911,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topdev-417e666b67,8,C / C++ và Linux,clustered
+topdev-f102deebaa,1,"Frontend và Web (HTML, JS, React)",clustered
+topdev-689f5fb332,7,Quy trình Agile / Scrum,clustered
+topdev-0dbe42841d,,,too_few_skills
+topdev-e713ba635d,1,"Frontend và Web (HTML, JS, React)",clustered
+topdev-3ed964aae4,3,"Backend Java (Spring, Microservices)",clustered
+topdev-06c37902dc,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topdev-f18c7a6827,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topdev-360b8c2d4a,5,Data Science / ML / LLM,clustered
+topdev-e5ea30b1fb,1,"Frontend và Web (HTML, JS, React)",clustered
+topdev-76a7f9dedd,8,C / C++ và Linux,clustered
+topdev-659efb81ff,7,Quy trình Agile / Scrum,clustered
+topdev-f61028dd47,3,"Backend Java (Spring, Microservices)",clustered
+topdev-691e7a30d7,6,"Hệ thống, mạng và bảo mật",clustered
+topdev-4b303a4d15,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topdev-13e8e13bc5,1,"Frontend và Web (HTML, JS, React)",clustered
+topdev-33108d2c2d,5,Data Science / ML / LLM,clustered
+topdev-c0d068aa06,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topdev-bf5919d702,1,"Frontend và Web (HTML, JS, React)",clustered
+topdev-9f02e50157,7,Quy trình Agile / Scrum,clustered
+topdev-da745cd00f,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topdev-e21cd4fad1,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topdev-3f704b314c,,,too_few_skills
+topdev-65c8bb209d,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topdev-8143f8956a,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topdev-274abc5539,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topdev-1fd7a2bbae,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topdev-01f4eef153,6,"Hệ thống, mạng và bảo mật",clustered
+topdev-f5b389ec41,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topdev-d228f29628,,,no_skills_extracted
+topdev-0bc98e41bc,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+topdev-75bb6df295,5,Data Science / ML / LLM,clustered
+topdev-2ea28d2c3b,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topdev-072f35e5fd,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+topdev-595368914b,5,Data Science / ML / LLM,clustered
+topdev-0e40947eab,5,Data Science / ML / LLM,clustered
+topdev-031ef63553,1,"Frontend và Web (HTML, JS, React)",clustered
+topdev-5fb470bc8f,,,too_few_skills
+vietnamworks-9a91590be2,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-49dd896657,,,too_few_skills
+vietnamworks-d84557c917,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-a60812177c,,,too_few_skills
+vietnamworks-8783c4fda4,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-3cad9f0bf3,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-61e28ca46a,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-cdd64c2d17,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-127f6d4a90,,,too_few_skills
+vietnamworks-ec6edcc467,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-1a03591268,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-9374099c4d,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-f42b19cb6a,5,Data Science / ML / LLM,clustered
+vietnamworks-a930e9b996,5,Data Science / ML / LLM,clustered
+vietnamworks-e6e988ff0e,,,too_few_skills
+vietnamworks-3d2200c1ef,5,Data Science / ML / LLM,clustered
+vietnamworks-238bbf79d0,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-6cb4aa43a9,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+vietnamworks-4d518d333c,7,Quy trình Agile / Scrum,clustered
+vietnamworks-98557753b3,8,C / C++ và Linux,clustered
+vietnamworks-c6f5cc22fa,,,too_few_skills
+vietnamworks-487a91aac3,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-43ffc563e1,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-4287124d1a,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-85c34bb6ed,,,too_few_skills
+vietnamworks-1b2e3d982e,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-b60041eb27,8,C / C++ và Linux,clustered
+vietnamworks-48991faa8b,,,too_few_skills
+vietnamworks-10b3989156,,,too_few_skills
+vietnamworks-13a8f04627,,,too_few_skills
+vietnamworks-c4001c2a50,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+vietnamworks-cc6bc5ef3f,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-82afa2f33d,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-14c47ed50f,,,too_few_skills
+vietnamworks-b254694883,8,C / C++ và Linux,clustered
+vietnamworks-f4173067ee,5,Data Science / ML / LLM,clustered
+vietnamworks-672b6eb07a,5,Data Science / ML / LLM,clustered
+vietnamworks-23b7b5fff0,5,Data Science / ML / LLM,clustered
+vietnamworks-2673378b20,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+vietnamworks-96f294def0,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-7999fa7e3d,5,Data Science / ML / LLM,clustered
+vietnamworks-8f2aec8f27,,,too_few_skills
+vietnamworks-c62bf03542,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-2652dcc2ff,8,C / C++ và Linux,clustered
+vietnamworks-53b82e27ef,,,too_few_skills
+vietnamworks-6b65327e3c,,,no_skills_extracted
+vietnamworks-f85a7ae42e,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-55b77de720,,,no_skills_extracted
+vietnamworks-102e39fe0f,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-3e6479294f,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-e126b13d19,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-25fd4a65ed,,,too_few_skills
+vietnamworks-efa8f7d23f,5,Data Science / ML / LLM,clustered
+vietnamworks-0684426b2e,,,too_few_skills
+vietnamworks-a353573747,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+vietnamworks-d597991f58,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+vietnamworks-6c344df9b0,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-3b5e5f41c3,,,no_skills_extracted
+vietnamworks-c50e687d3b,,,too_few_skills
+vietnamworks-9054f09690,,,no_skills_extracted
+vietnamworks-6daaf547e4,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-b547e8e83c,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-2609b31f96,,,no_skills_extracted
+vietnamworks-479d2ac564,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-0a532c7ed6,7,Quy trình Agile / Scrum,clustered
+vietnamworks-603ab63680,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-1b015bf81f,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-f666a85436,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-dcb31b964c,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+vietnamworks-7e0dcc5b1a,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-c7c0bb31ab,5,Data Science / ML / LLM,clustered
+vietnamworks-765301daf9,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-d8326a45e4,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+vietnamworks-b53c93b245,,,too_few_skills
+vietnamworks-e8ed7e17de,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-bceabdc683,5,Data Science / ML / LLM,clustered
+vietnamworks-b875d1a4eb,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-4c5dcc992c,5,Data Science / ML / LLM,clustered
+vietnamworks-bf2f251255,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-812c4cee50,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+vietnamworks-19bb1ec0c8,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-f6d5724e91,,,too_few_skills
+vietnamworks-786413dee6,5,Data Science / ML / LLM,clustered
+vietnamworks-f531779cff,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-b53ae34c4a,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+vietnamworks-9a2c52a697,8,C / C++ và Linux,clustered
+vietnamworks-c2de88dad8,8,C / C++ và Linux,clustered
+vietnamworks-1acb3d3ae7,8,C / C++ và Linux,clustered
+vietnamworks-3989ce54f5,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+vietnamworks-25ec7bdcb3,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+vietnamworks-2930834843,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+vietnamworks-af34caae4d,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+vietnamworks-14678b8e68,,,too_few_skills
+vietnamworks-59ac3c87f0,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-74349f4576,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-1798fa4efd,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-03cddaef4c,5,Data Science / ML / LLM,clustered
+vietnamworks-6d9bc41453,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-481703eda3,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-7eab92fdbb,5,Data Science / ML / LLM,clustered
+vietnamworks-5b50998eb1,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-089ad758d9,,,too_few_skills
+vietnamworks-ca2fb82443,5,Data Science / ML / LLM,clustered
+vietnamworks-8cb7dafe5a,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-a18d08b7ff,,,too_few_skills
+vietnamworks-992cdf68b1,,,too_few_skills
+vietnamworks-2c996f89b5,,,too_few_skills
+vietnamworks-d3d9e56428,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-9c252eaa4f,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+vietnamworks-2da879b925,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-ac19ccfdc1,,,too_few_skills
+vietnamworks-f525cc918d,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-387c13b6b3,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-9efec38f6f,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+vietnamworks-f15254aa53,7,Quy trình Agile / Scrum,clustered
+vietnamworks-8a67914dc3,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-3565981af9,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-9aac6459ce,,,too_few_skills
+vietnamworks-93a70c1535,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-0524f7070a,,,too_few_skills
+vietnamworks-e232cc90f1,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-8200f32e87,5,Data Science / ML / LLM,clustered
+vietnamworks-462a597aa7,,,too_few_skills
+vietnamworks-8c18b95b64,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-07fa05aa93,,,no_skills_extracted
+vietnamworks-83a484fbf6,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-46009e0382,,,too_few_skills
+vietnamworks-f3881d0e64,,,too_few_skills
+vietnamworks-3119018666,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-b2de349c33,5,Data Science / ML / LLM,clustered
+vietnamworks-7349dc9c33,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-0441da9f6c,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-d9cd35cd41,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-2873ffe7d4,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-6c04129c9f,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-7f8d9260a5,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-a3fe0fc46e,8,C / C++ và Linux,clustered
+vietnamworks-cfd0ec0601,,,no_skills_extracted
+vietnamworks-3a5d372938,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-255719c8b2,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-be0ad0fcac,8,C / C++ và Linux,clustered
+vietnamworks-ab58df8ec7,,,no_skills_extracted
+vietnamworks-6dbb2e744b,,,no_skills_extracted
+vietnamworks-1e685ae905,8,C / C++ và Linux,clustered
+vietnamworks-a96bde1cd2,5,Data Science / ML / LLM,clustered
+vietnamworks-5dcb0ccb23,8,C / C++ và Linux,clustered
+vietnamworks-ee664ba4a5,8,C / C++ và Linux,clustered
+vietnamworks-9f0e44cc78,5,Data Science / ML / LLM,clustered
+vietnamworks-d5f501e183,7,Quy trình Agile / Scrum,clustered
+vietnamworks-0587ba314d,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-264f1ac789,,,too_few_skills
+vietnamworks-3900ece92f,,,too_few_skills
+vietnamworks-3af064bce4,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+vietnamworks-94fc702094,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-59f91094e4,,,too_few_skills
+vietnamworks-8c44cfde3d,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-679b1f6e4a,,,no_skills_extracted
+vietnamworks-871bd883a9,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+vietnamworks-9daafcef1b,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-62af7e948c,,,no_skills_extracted
+vietnamworks-2eb7d895b4,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-fd1552ac74,8,C / C++ và Linux,clustered
+vietnamworks-b33589927a,5,Data Science / ML / LLM,clustered
+vietnamworks-30b109b259,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-f4c6f0a217,8,C / C++ và Linux,clustered
+vietnamworks-ea071af212,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-79e0977e49,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-c2c61e0567,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-947389c891,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-ee7f696fbd,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-262a6833f5,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-990344fc7d,,,no_skills_extracted
+vietnamworks-da9d7e245e,,,too_few_skills
+vietnamworks-bd098b54d4,,,too_few_skills
+vietnamworks-d1f260facb,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-990cde1cd4,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-141995e08b,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-57b84d0194,,,too_few_skills
+vietnamworks-43602c8fbf,,,too_few_skills
+vietnamworks-743bb635a9,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-f8b931a977,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-5226f882fc,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-7fa438c14e,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-a4a0d50fc1,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-074c04a93f,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-b52551b008,,,no_skills_extracted
+vietnamworks-f6f3b8387a,,,too_few_skills
+vietnamworks-661cfd0b7a,,,too_few_skills
+vietnamworks-6954ef9266,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-7a1213f2c8,,,too_few_skills
+vietnamworks-50244f10de,8,C / C++ và Linux,clustered
+vietnamworks-cab32aaccf,7,Quy trình Agile / Scrum,clustered
+vietnamworks-a417cbff2e,,,too_few_skills
+vietnamworks-cdc324bdf7,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-fdbfb3f79a,7,Quy trình Agile / Scrum,clustered
+vietnamworks-fc399032c6,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-323eb4125d,7,Quy trình Agile / Scrum,clustered
+vietnamworks-2804a33f31,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-c9f43e4cea,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-686de9c957,5,Data Science / ML / LLM,clustered
+vietnamworks-1116cb9890,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-964da245bf,5,Data Science / ML / LLM,clustered
+vietnamworks-efd3a49f75,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-53217cb441,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-13bc299422,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-26ce9aa090,,,too_few_skills
+vietnamworks-e6cb58d086,5,Data Science / ML / LLM,clustered
+vietnamworks-cc320f9dd9,5,Data Science / ML / LLM,clustered
+vietnamworks-b9452ae6c4,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-67fadc368a,,,too_few_skills
+vietnamworks-3cde5a83b5,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-8c31ccb2c3,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-691dc851ed,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-61a61a8c9b,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-f8c34a6360,5,Data Science / ML / LLM,clustered
+vietnamworks-322d6f1bfc,,,too_few_skills
+vietnamworks-b2a8c31442,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-66a1f4b4ab,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-a4e2fd6951,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-faacff95d2,5,Data Science / ML / LLM,clustered
+vietnamworks-6fff72cb42,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-549bd1af35,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-1743bf0c1f,,,too_few_skills
+vietnamworks-e15321b624,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-3a715fd99d,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-e3e2318701,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-c450c4acb1,,,no_skills_extracted
+vietnamworks-cb7f2f7117,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-58f6d9861f,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-5903e10085,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-6f222351ac,5,Data Science / ML / LLM,clustered
+vietnamworks-ac35841372,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-80d7169b20,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-d3770ebe3a,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-f4efa26cec,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-cb44df04e4,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-2b89c578d9,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-bd3e197926,5,Data Science / ML / LLM,clustered
+vietnamworks-a67a8f9834,5,Data Science / ML / LLM,clustered
+vietnamworks-2ef10e6ec1,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-4e24bdbe78,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-4a944102fd,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-7fe0717a04,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-b2d2da42a6,,,no_skills_extracted
+vietnamworks-6aa8d2fe1a,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-d99c409554,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-117f8fb470,7,Quy trình Agile / Scrum,clustered
+vietnamworks-1f399f0b01,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-8777616675,,,too_few_skills
+vietnamworks-de69420e61,8,C / C++ và Linux,clustered
+vietnamworks-e3493a134e,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-922f2b7666,7,Quy trình Agile / Scrum,clustered
+vietnamworks-9d6ccb2252,7,Quy trình Agile / Scrum,clustered
+vietnamworks-a8cbfa252d,,,too_few_skills
+vietnamworks-77200872b2,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-dd2dfca342,,,too_few_skills
+vietnamworks-c631c4b77b,7,Quy trình Agile / Scrum,clustered
+vietnamworks-b01ed1a736,,,too_few_skills
+vietnamworks-5f1796fe52,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-35a9a6e11c,,,too_few_skills
+vietnamworks-aa8fe3f680,,,too_few_skills
+vietnamworks-ed87adbe56,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-63ac1ea95e,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-298e2440a1,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-e3c16cc0a3,5,Data Science / ML / LLM,clustered
+vietnamworks-7db8712540,7,Quy trình Agile / Scrum,clustered
+vietnamworks-399250fc3d,8,C / C++ và Linux,clustered
+vietnamworks-7b5272ef34,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-6fffabe8a6,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-3842a9e61f,8,C / C++ và Linux,clustered
+vietnamworks-c2dfba67bb,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+vietnamworks-e96339fb80,5,Data Science / ML / LLM,clustered
+vietnamworks-60a8543b32,,,too_few_skills
+vietnamworks-ecb47c2d14,,,too_few_skills
+vietnamworks-f037ad6596,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-d2c382ef3f,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-0dbc67b3d7,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-c67e595512,,,too_few_skills
+vietnamworks-31e34093aa,,,too_few_skills
+vietnamworks-3607cec649,,,too_few_skills
+vietnamworks-248c29dc32,,,no_skills_extracted
+vietnamworks-cfac2282df,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-9543d13e30,,,too_few_skills
+vietnamworks-5d064fe334,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+vietnamworks-447cc6f32b,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-fa3ab2dcc1,,,too_few_skills
+vietnamworks-364971e4af,,,too_few_skills
+vietnamworks-2666781b28,5,Data Science / ML / LLM,clustered
+vietnamworks-fecf98bcff,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-b178ffed61,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-4dbf9961bd,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+vietnamworks-a7442986cd,8,C / C++ và Linux,clustered
+vietnamworks-0ea2044dae,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-28e0075662,,,too_few_skills
+vietnamworks-2d3bca7e59,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-060e38f7dd,5,Data Science / ML / LLM,clustered
+vietnamworks-433c0decba,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-46953c27f7,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-fff57dfd89,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+vietnamworks-424e60110a,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-9bd6d508f9,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-9ed2044c94,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+vietnamworks-b592bf2703,,,too_few_skills
+vietnamworks-22f157786e,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-d0f4d10b80,,,no_skills_extracted
+vietnamworks-a3c2003c4e,,,too_few_skills
+vietnamworks-02f3af2a56,5,Data Science / ML / LLM,clustered
+vietnamworks-44c5dd7970,7,Quy trình Agile / Scrum,clustered
+vietnamworks-46ba793695,,,no_skills_extracted
+vietnamworks-30234e11ef,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+vietnamworks-388b442c53,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-9c50248b50,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-b37d8b2695,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-9d02372eb3,5,Data Science / ML / LLM,clustered
+vietnamworks-2d6d95cad3,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+vietnamworks-4508c54593,,,no_skills_extracted
+vietnamworks-17e9cc1f2f,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-b25c1973af,7,Quy trình Agile / Scrum,clustered
+vietnamworks-d0a6cf142b,,,too_few_skills
+vietnamworks-21949d76ea,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-f45653abce,,,no_skills_extracted
+vietnamworks-8329ae1098,,,too_few_skills
+vietnamworks-118c481d54,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-071d0de9d8,,,too_few_skills
+vietnamworks-5dec0bbc4b,5,Data Science / ML / LLM,clustered
+vietnamworks-c8ac40e216,,,no_skills_extracted
+vietnamworks-fed380e3a5,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-2d36370673,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-ac821568f1,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-8b9564c3af,5,Data Science / ML / LLM,clustered
+vietnamworks-02a6bb56c7,7,Quy trình Agile / Scrum,clustered
+vietnamworks-dce538a500,,,too_few_skills
+vietnamworks-3e713abb1a,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-1b5bbb1afc,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-bde1f149da,7,Quy trình Agile / Scrum,clustered
+vietnamworks-67aeecf3cc,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-a785f36b11,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-d4b266ccad,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-627e57dfcd,,,too_few_skills
+vietnamworks-393f7931da,,,too_few_skills
+vietnamworks-9f49cbea41,,,too_few_skills
+vietnamworks-7ff1bce1c4,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-434742a47f,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-85191e1c8b,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-5038e38971,5,Data Science / ML / LLM,clustered
+vietnamworks-ddd8971908,,,too_few_skills
+vietnamworks-6f123e1d3c,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-14de831b50,,,too_few_skills
+vietnamworks-1897de9d04,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-7c010bb0bb,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-f165e87004,7,Quy trình Agile / Scrum,clustered
+vietnamworks-677f324aa4,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-d4a57f2dc5,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-f9ed5e2350,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-0f49682fc4,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-6f2488c962,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-4ac809e25a,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-8dd3241351,,,too_few_skills
+vietnamworks-62bf771b72,,,too_few_skills
+vietnamworks-e6e92aebd1,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-497fdc2f4e,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-c374bd7ebb,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-57c0798259,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-e40b0f44ed,,,too_few_skills
+vietnamworks-d70803e430,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-f8b2c59dc1,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-681aeb000b,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-ef6153d008,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-45179da9d0,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-f0f7a022a6,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-3cca8b948c,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-dc9ca01024,7,Quy trình Agile / Scrum,clustered
+vietnamworks-d97d5a83b1,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-2dbe2aa60f,,,too_few_skills
+vietnamworks-09aeed4aca,4,"DevOps / Cloud (CI/CD, Terraform, K8s)",clustered
+vietnamworks-02749c9512,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-5d7551e52b,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-987a624ea3,,,too_few_skills
+vietnamworks-5738c927bf,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-f010e15d7f,7,Quy trình Agile / Scrum,clustered
+vietnamworks-7169bbaaec,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-c1fc10204f,,,too_few_skills
+vietnamworks-9a182d7653,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-1ca8764054,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-b204108dd4,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-91ceafb1b8,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-36f7556af9,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-ca4d234140,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-300d387bf1,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-d96bb32c7e,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-d7638bddfd,7,Quy trình Agile / Scrum,clustered
+vietnamworks-ed34b3347e,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-f2519aef54,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-e95448f975,5,Data Science / ML / LLM,clustered
+vietnamworks-d4f81c88c7,5,Data Science / ML / LLM,clustered
+vietnamworks-775c7cb987,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-50f48f9be3,5,Data Science / ML / LLM,clustered
+vietnamworks-26f442d947,5,Data Science / ML / LLM,clustered
+vietnamworks-355c348438,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-bb5fc48791,,,too_few_skills
+vietnamworks-05fca2429a,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-e2855bbf00,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-e296ece08e,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-8b47edb2c2,8,C / C++ và Linux,clustered
+vietnamworks-bd9379dba9,,,too_few_skills
+vietnamworks-a3e56f8045,,,no_skills_extracted
+vietnamworks-69b6d18ed2,7,Quy trình Agile / Scrum,clustered
+vietnamworks-5d3492000e,,,no_skills_extracted
+vietnamworks-b3659c10f1,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-dd0999093a,5,Data Science / ML / LLM,clustered
+vietnamworks-1406649004,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-76f43a7339,,,too_few_skills
+vietnamworks-17c8791f5c,,,too_few_skills
+vietnamworks-0450755e2f,7,Quy trình Agile / Scrum,clustered
+vietnamworks-8b25a6cba0,7,Quy trình Agile / Scrum,clustered
+vietnamworks-9ff504aac4,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-f2cbed3900,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-c1a7e70b0d,,,too_few_skills
+vietnamworks-0a4fbbb306,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-7c3ae8bdb4,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-93706a6530,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-9e1b676cba,7,Quy trình Agile / Scrum,clustered
+vietnamworks-10fd3efcef,,,too_few_skills
+vietnamworks-9718752b6b,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-cd010d6c77,,,no_skills_extracted
+vietnamworks-2834e0b967,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-830162f92e,5,Data Science / ML / LLM,clustered
+vietnamworks-5794bb8065,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-a6a4907ac3,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-a61258a792,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-ebab00c873,,,too_few_skills
+vietnamworks-dcdc17d0c4,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-07af688c76,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-e5fa706c0d,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-f9d2af7a80,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-c779491fbe,5,Data Science / ML / LLM,clustered
+vietnamworks-c8909c4fd9,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-fe78050d72,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-152340ad96,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-1fb01377a5,,,too_few_skills
+vietnamworks-e15ca25c2f,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-8585f7e631,7,Quy trình Agile / Scrum,clustered
+vietnamworks-0c582ea0b8,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-e504cbf64c,7,Quy trình Agile / Scrum,clustered
+vietnamworks-19f0758b69,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-9eb874d8cb,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-beeec5344d,5,Data Science / ML / LLM,clustered
+vietnamworks-3124b382ed,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-7d99f31a18,,,too_few_skills
+vietnamworks-627c3a2cf3,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-a542956454,7,Quy trình Agile / Scrum,clustered
+vietnamworks-1731fc0b47,,,too_few_skills
+vietnamworks-d1cc4cb83d,7,Quy trình Agile / Scrum,clustered
+vietnamworks-532cb5aaab,5,Data Science / ML / LLM,clustered
+vietnamworks-22ad33472b,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-462f56c10c,,,too_few_skills
+vietnamworks-791b8ef8f5,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-985e925e26,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-08dc0d1a74,,,no_skills_extracted
+vietnamworks-c41d0d00e1,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-d4cee82ea6,,,no_skills_extracted
+vietnamworks-c97dce0285,,,too_few_skills
+vietnamworks-2d06afab69,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-250a171d6f,7,Quy trình Agile / Scrum,clustered
+vietnamworks-aa3f5ddc44,5,Data Science / ML / LLM,clustered
+vietnamworks-8a3b2f5045,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-f963bb7a59,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-3a4b330fa9,,,too_few_skills
+vietnamworks-7196081913,,,too_few_skills
+vietnamworks-be60f72c9e,5,Data Science / ML / LLM,clustered
+vietnamworks-1cbe76af93,6,"Hệ thống, mạng và bảo mật",clustered
+vietnamworks-50a2f30127,,,too_few_skills
+vietnamworks-5b46e5b3ec,2,"Dữ liệu doanh nghiệp (SQL, BI, ERP)",clustered
+vietnamworks-84229729f3,3,"Backend Java (Spring, Microservices)",clustered
+vietnamworks-3a0e236da9,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-fa56b491d0,1,"Frontend và Web (HTML, JS, React)",clustered
+vietnamworks-62469af33e,,,no_skills_extracted
